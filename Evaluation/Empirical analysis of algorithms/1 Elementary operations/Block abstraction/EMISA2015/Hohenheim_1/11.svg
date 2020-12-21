@@ -1,0 +1,71 @@
+<svg width="1842px" height="500px"
+ viewBox="0.00 0.00 813.50 221.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 217)">
+<title>11</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-217 809.5,-217 809.5,4 -4,4"/>
+<!-- Gateway_0w\nimzxf -->
+<g id="node1" class="node">
+<title>Gateway_0w\nimzxf</title>
+<polygon fill="lightgrey" stroke="black" points="381.5,-36 284.98,-18 381.5,0 478.02,-18 381.5,-36"/>
+<text text-anchor="middle" x="381.5" y="-14.3" font-family="Times,serif" font-size="14.00">parallelGateway</text>
+</g>
+<!-- Gateway_1h\nmq6vr -->
+<g id="node2" class="node">
+<title>Gateway_1h\nmq6vr</title>
+<polygon fill="lightgrey" stroke="black" points="381.5,-213 284.98,-195 381.5,-177 478.02,-195 381.5,-213"/>
+<text text-anchor="middle" x="381.5" y="-191.3" font-family="Times,serif" font-size="14.00">parallelGateway</text>
+</g>
+<!-- Activity_1\ny70b3u -->
+<g id="node3" class="node">
+<title>Activity_1\ny70b3u</title>
+<polygon fill="lightgrey" stroke="black" points="0,-72.5 0,-140.5 351,-140.5 351,-72.5 0,-72.5"/>
+<text text-anchor="middle" x="37" y="-110.3" font-family="Times,serif" font-size="14.00">Activity_1</text>
+<text text-anchor="middle" x="37" y="-95.3" font-family="Times,serif" font-size="14.00">y70b3u</text>
+<polyline fill="none" stroke="black" points="74,-72.5 74,-140.5 "/>
+<text text-anchor="middle" x="115.5" y="-125.3" font-family="Times,serif" font-size="14.00">Admission_</text>
+<text text-anchor="middle" x="115.5" y="-110.3" font-family="Times,serif" font-size="14.00">Committee:</text>
+<text text-anchor="middle" x="115.5" y="-95.3" font-family="Times,serif" font-size="14.00">Lane_1isoo</text>
+<text text-anchor="middle" x="115.5" y="-80.3" font-family="Times,serif" font-size="14.00">il</text>
+<polyline fill="none" stroke="black" points="157,-72.5 157,-140.5 "/>
+<text text-anchor="middle" x="254" y="-102.8" font-family="Times,serif" font-size="14.00">task_Assessment_of_application</text>
+</g>
+<!-- Gateway_1h\nmq6vr&#45;&gt;Activity_1\ny70b3u -->
+<g id="edge2" class="edge">
+<title>Gateway_1h\nmq6vr&#45;&gt;Activity_1\ny70b3u</title>
+<path fill="none" stroke="black" d="M353.29,-182.15C330.12,-172.43 296,-158.1 263.83,-144.59"/>
+<polygon fill="black" stroke="black" points="264.95,-141.26 254.37,-140.62 262.24,-147.72 264.95,-141.26"/>
+</g>
+<!-- Activity_0\ndxqmpp -->
+<g id="node4" class="node">
+<title>Activity_0\ndxqmpp</title>
+<polygon fill="lightgrey" stroke="black" points="369.5,-72.5 369.5,-140.5 805.5,-140.5 805.5,-72.5 369.5,-72.5"/>
+<text text-anchor="middle" x="406.5" y="-110.3" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="406.5" y="-95.3" font-family="Times,serif" font-size="14.00">dxqmpp</text>
+<polyline fill="none" stroke="black" points="443.5,-72.5 443.5,-140.5 "/>
+<text text-anchor="middle" x="485" y="-125.3" font-family="Times,serif" font-size="14.00">Admission_</text>
+<text text-anchor="middle" x="485" y="-110.3" font-family="Times,serif" font-size="14.00">Committee:</text>
+<text text-anchor="middle" x="485" y="-95.3" font-family="Times,serif" font-size="14.00">Lane_1isoo</text>
+<text text-anchor="middle" x="485" y="-80.3" font-family="Times,serif" font-size="14.00">il</text>
+<polyline fill="none" stroke="black" points="526.5,-72.5 526.5,-140.5 "/>
+<text text-anchor="middle" x="666" y="-102.8" font-family="Times,serif" font-size="14.00">task_Rank_application_on_scale_from_1_to_10</text>
+</g>
+<!-- Gateway_1h\nmq6vr&#45;&gt;Activity_0\ndxqmpp -->
+<g id="edge1" class="edge">
+<title>Gateway_1h\nmq6vr&#45;&gt;Activity_0\ndxqmpp</title>
+<path fill="none" stroke="black" d="M409.71,-182.15C432.88,-172.43 467,-158.1 499.17,-144.59"/>
+<polygon fill="black" stroke="black" points="500.76,-147.72 508.63,-140.62 498.05,-141.26 500.76,-147.72"/>
+</g>
+<!-- Activity_1\ny70b3u&#45;&gt;Gateway_0w\nimzxf -->
+<g id="edge3" class="edge">
+<title>Activity_1\ny70b3u&#45;&gt;Gateway_0w\nimzxf</title>
+<path fill="none" stroke="black" d="M254.26,-72.43C284.94,-59.54 318.67,-45.38 343.69,-34.88"/>
+<polygon fill="black" stroke="black" points="345.3,-38 353.16,-30.9 342.59,-31.54 345.3,-38"/>
+</g>
+<!-- Activity_0\ndxqmpp&#45;&gt;Gateway_0w\nimzxf -->
+<g id="edge4" class="edge">
+<title>Activity_0\ndxqmpp&#45;&gt;Gateway_0w\nimzxf</title>
+<path fill="none" stroke="black" d="M508.74,-72.43C478.06,-59.54 444.33,-45.38 419.31,-34.88"/>
+<polygon fill="black" stroke="black" points="420.41,-31.54 409.84,-30.9 417.7,-38 420.41,-31.54"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,69 @@
+<svg width="600px" height="572px"
+ viewBox="0.00 0.00 368.00 350.79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 346.79)">
+<title>04_Passagierabfertigung_Check&#45;In_am_Vorabend</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-346.79 364,-346.79 364,4 -4,4"/>
+<!-- StartEvent\n_4 -->
+<g id="node1" class="node">
+<title>StartEvent\n_4</title>
+<ellipse fill="lightgrey" stroke="black" cx="180" cy="-315.49" rx="27.1" ry="27.1"/>
+<text text-anchor="middle" x="180" y="-311.79" font-family="Times,serif" font-size="14.00">Start</text>
+</g>
+<!-- Task_1376l\n88_Task_1m\nakur1 -->
+<g id="node4" class="node">
+<title>Task_1376l\n88_Task_1m\nakur1</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="0,-198.69 0,-251.69 360,-251.69 360,-198.69 0,-198.69"/>
+<text text-anchor="middle" x="44" y="-236.49" font-family="Times,serif" font-size="14.00">Task_1376l</text>
+<text text-anchor="middle" x="44" y="-221.49" font-family="Times,serif" font-size="14.00">88_Task_1m</text>
+<text text-anchor="middle" x="44" y="-206.49" font-family="Times,serif" font-size="14.00">akur1</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="88,-198.69 88,-251.69 "/>
+<text text-anchor="middle" x="130" y="-236.49" font-family="Times,serif" font-size="14.00">Passagier:</text>
+<text text-anchor="middle" x="130" y="-221.49" font-family="Times,serif" font-size="14.00">Lane_0ylwo</text>
+<text text-anchor="middle" x="130" y="-206.49" font-family="Times,serif" font-size="14.00">ow</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="172,-198.69 172,-251.69 "/>
+<text text-anchor="middle" x="266" y="-236.49" font-family="Times,serif" font-size="14.00">Passagier DO</text>
+<text text-anchor="middle" x="266" y="-221.49" font-family="Times,serif" font-size="14.00"> Terminal_betreten</text>
+<text text-anchor="middle" x="266" y="-206.49" font-family="Times,serif" font-size="14.00">Zum_Sicherheitsbereich_gehen</text>
+</g>
+<!-- StartEvent\n_4&#45;&gt;Task_1376l\n88_Task_1m\nakur1 -->
+<g id="edge1" class="edge">
+<title>StartEvent\n_4&#45;&gt;Task_1376l\n88_Task_1m\nakur1</title>
+<path fill="none" stroke="black" d="M180,-288C180,-279.84 180,-270.71 180,-262.03"/>
+<polygon fill="black" stroke="black" points="183.5,-261.76 180,-251.76 176.5,-261.76 183.5,-261.76"/>
+</g>
+<!-- EndEvent_1\nvwcw55 -->
+<g id="node2" class="node">
+<title>EndEvent_1\nvwcw55</title>
+<ellipse fill="lightgrey" stroke="black" cx="180" cy="-28.6" rx="28.7" ry="28.7"/>
+<text text-anchor="middle" x="180" y="-24.9" font-family="Times,serif" font-size="14.00">Ende</text>
+</g>
+<!-- Task_0c1t4\n9t_Task_0c\n1t49t -->
+<g id="node3" class="node">
+<title>Task_0c1t4\n9t_Task_0c\n1t49t</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="15.5,-93.69 15.5,-161.69 344.5,-161.69 344.5,-93.69 15.5,-93.69"/>
+<text text-anchor="middle" x="55.5" y="-138.99" font-family="Times,serif" font-size="14.00">Task_0c1t4</text>
+<text text-anchor="middle" x="55.5" y="-123.99" font-family="Times,serif" font-size="14.00">9t_Task_0c</text>
+<text text-anchor="middle" x="55.5" y="-108.99" font-family="Times,serif" font-size="14.00">1t49t</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="95.5,-93.69 95.5,-161.69 "/>
+<text text-anchor="middle" x="136" y="-146.49" font-family="Times,serif" font-size="14.00">Sicherheit</text>
+<text text-anchor="middle" x="136" y="-131.49" font-family="Times,serif" font-size="14.00">sbereich:L</text>
+<text text-anchor="middle" x="136" y="-116.49" font-family="Times,serif" font-size="14.00">ane_02kbgs</text>
+<text text-anchor="middle" x="136" y="-101.49" font-family="Times,serif" font-size="14.00">x</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="176.5,-93.69 176.5,-161.69 "/>
+<text text-anchor="middle" x="260.5" y="-131.49" font-family="Times,serif" font-size="14.00">Sicherheitsbereich DO</text>
+<text text-anchor="middle" x="260.5" y="-116.49" font-family="Times,serif" font-size="14.00"> Prozess_Sicherheitsbereich</text>
+</g>
+<!-- Task_0c1t4\n9t_Task_0c\n1t49t&#45;&gt;EndEvent_1\nvwcw55 -->
+<g id="edge2" class="edge">
+<title>Task_0c1t4\n9t_Task_0c\n1t49t&#45;&gt;EndEvent_1\nvwcw55</title>
+<path fill="none" stroke="black" d="M180,-93.55C180,-85.19 180,-76.15 180,-67.58"/>
+<polygon fill="black" stroke="black" points="183.5,-67.42 180,-57.42 176.5,-67.42 183.5,-67.42"/>
+</g>
+<!-- Task_1376l\n88_Task_1m\nakur1&#45;&gt;Task_0c1t4\n9t_Task_0c\n1t49t -->
+<g id="edge3" class="edge">
+<title>Task_1376l\n88_Task_1m\nakur1&#45;&gt;Task_0c1t4\n9t_Task_0c\n1t49t</title>
+<path fill="none" stroke="black" d="M180,-198.6C180,-190.41 180,-181.11 180,-172.02"/>
+<polygon fill="black" stroke="black" points="183.5,-171.92 180,-161.92 176.5,-171.92 183.5,-171.92"/>
+</g>
+</g>
+</svg>

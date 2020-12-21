@@ -1,0 +1,54 @@
+<svg width="845px" height="500px"
+ viewBox="0.00 0.00 398.62 236.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 232)">
+<title>0</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-232 394.62,-232 394.62,4 -4,4"/>
+<!-- sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050 -->
+<g id="node1" class="node">
+<title>sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050</title>
+<polygon fill="lightgrey" stroke="black" points="284,-228 177.26,-210 284,-192 390.74,-210 284,-228"/>
+<text text-anchor="middle" x="284" y="-206.3" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F -->
+<g id="node2" class="node">
+<title>sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F</title>
+<polygon fill="lightgrey" stroke="black" points="0,-72.5 0,-155.5 360,-155.5 360,-72.5 0,-72.5"/>
+<text text-anchor="middle" x="49" y="-132.8" font-family="Times,serif" font-size="14.00">sid&#45;9460F7</text>
+<text text-anchor="middle" x="49" y="-117.8" font-family="Times,serif" font-size="14.00">EB&#45;5D0E&#45;4C</text>
+<text text-anchor="middle" x="49" y="-102.8" font-family="Times,serif" font-size="14.00">9A&#45;933C&#45;91</text>
+<text text-anchor="middle" x="49" y="-87.8" font-family="Times,serif" font-size="14.00">EAEDFF6B1F</text>
+<polyline fill="none" stroke="black" points="98,-72.5 98,-155.5 "/>
+<text text-anchor="middle" x="142.5" y="-140.3" font-family="Times,serif" font-size="14.00">Applicant:</text>
+<text text-anchor="middle" x="142.5" y="-125.3" font-family="Times,serif" font-size="14.00">sid&#45;FB9E0B</text>
+<text text-anchor="middle" x="142.5" y="-110.3" font-family="Times,serif" font-size="14.00">61&#45;61D0&#45;4D</text>
+<text text-anchor="middle" x="142.5" y="-95.3" font-family="Times,serif" font-size="14.00">5E&#45;981D&#45;5F</text>
+<text text-anchor="middle" x="142.5" y="-80.3" font-family="Times,serif" font-size="14.00">932C84B929</text>
+<polyline fill="none" stroke="black" points="187,-72.5 187,-155.5 "/>
+<text text-anchor="middle" x="273.5" y="-110.3" font-family="Times,serif" font-size="14.00">task_Add_recommendations</text>
+</g>
+<!-- sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050&#45;&gt;sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F -->
+<g id="edge2" class="edge">
+<title>sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050&#45;&gt;sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F</title>
+<path fill="none" stroke="black" d="M267.75,-194.31C258.1,-185.59 245.27,-174 232.41,-162.37"/>
+<polygon fill="black" stroke="black" points="234.63,-159.66 224.86,-155.55 229.93,-164.85 234.63,-159.66"/>
+</g>
+<!-- sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917 -->
+<g id="node3" class="node">
+<title>sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917</title>
+<polygon fill="lightgrey" stroke="black" points="284,-36 177.26,-18 284,0 390.74,-18 284,-36"/>
+<text text-anchor="middle" x="284" y="-14.3" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050&#45;&gt;sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917 -->
+<g id="edge1" class="edge">
+<title>sid&#45;813795\nF6&#45;9B7A&#45;4D\n33&#45;BEF1&#45;7A\n04F3B3F050&#45;&gt;sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917</title>
+<path fill="none" stroke="black" d="M317.53,-197.49C336.28,-189.13 358.03,-175.77 369,-156 387.12,-123.36 387.12,-104.64 369,-72 359.83,-55.48 343.13,-43.43 326.94,-35.04"/>
+<polygon fill="black" stroke="black" points="328.06,-31.69 317.53,-30.51 325.03,-38 328.06,-31.69"/>
+</g>
+<!-- sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F&#45;&gt;sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917 -->
+<g id="edge3" class="edge">
+<title>sid&#45;9460F7\nEB&#45;5D0E&#45;4C\n9A&#45;933C&#45;91\nEAEDFF6B1F&#45;&gt;sid&#45;35EE46\n31&#45;A52E&#45;4C\n34&#45;B85A&#45;41\n5458C47917</title>
+<path fill="none" stroke="black" d="M225.01,-72.32C237.26,-61.25 250.04,-49.7 260.55,-40.19"/>
+<polygon fill="black" stroke="black" points="263.04,-42.66 268.11,-33.36 258.34,-37.47 263.04,-42.66"/>
+</g>
+</g>
+</svg>

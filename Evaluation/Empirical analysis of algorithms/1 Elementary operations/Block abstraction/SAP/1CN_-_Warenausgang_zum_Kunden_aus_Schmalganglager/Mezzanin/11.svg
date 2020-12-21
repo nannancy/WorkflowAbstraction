@@ -1,0 +1,70 @@
+<svg width="2154px" height="500px"
+ viewBox="0.00 0.00 952.00 221.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 217)">
+<title>11</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-217 948,-217 948,4 -4,4"/>
+<!-- Task_00jh2\nel_1CN -->
+<g id="node1" class="node">
+<title>Task_00jh2\nel_1CN</title>
+<polygon fill="lightgrey" stroke="black" points="0,-80 0,-133 444,-133 444,-80 0,-80"/>
+<text text-anchor="middle" x="40" y="-110.3" font-family="Times,serif" font-size="14.00">Task_00jh2</text>
+<text text-anchor="middle" x="40" y="-95.3" font-family="Times,serif" font-size="14.00">el_1CN</text>
+<polyline fill="none" stroke="black" points="80,-80 80,-133 "/>
+<text text-anchor="middle" x="124.5" y="-117.8" font-family="Times,serif" font-size="14.00">Expedient:</text>
+<text text-anchor="middle" x="124.5" y="-102.8" font-family="Times,serif" font-size="14.00">1CN__Lane_</text>
+<text text-anchor="middle" x="124.5" y="-87.8" font-family="Times,serif" font-size="14.00">1ybnrdj</text>
+<polyline fill="none" stroke="black" points="169,-80 169,-133 "/>
+<text text-anchor="middle" x="306.5" y="-102.8" font-family="Times,serif" font-size="14.00">Warenausgang_in_SAP_S/4HANA_überprüfen</text>
+</g>
+<!-- ExclusiveG\nateway_074\ndm0y_1CN -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_074\ndm0y_1CN</title>
+<polygon fill="lightgrey" stroke="black" points="462,-36 305.99,-18 462,0 618.01,-18 462,-36"/>
+<text text-anchor="middle" x="462" y="-14.3" font-family="Times,serif" font-size="14.00">Paralleles_Gateway_/_JOIN</text>
+</g>
+<!-- Task_00jh2\nel_1CN&#45;&gt;ExclusiveG\nateway_074\ndm0y_1CN -->
+<g id="edge1" class="edge">
+<title>Task_00jh2\nel_1CN&#45;&gt;ExclusiveG\nateway_074\ndm0y_1CN</title>
+<path fill="none" stroke="black" d="M293.03,-79.9C333.08,-65.46 381.92,-47.86 416.77,-35.3"/>
+<polygon fill="black" stroke="black" points="417.99,-38.58 426.21,-31.9 415.61,-32 417.99,-38.58"/>
+</g>
+<!-- ExclusiveG\nateway_1yw\nbekf_1CN -->
+<g id="node3" class="node">
+<title>ExclusiveG\nateway_1yw\nbekf_1CN</title>
+<polygon fill="lightgrey" stroke="black" points="462,-213 299.12,-195 462,-177 624.88,-195 462,-213"/>
+<text text-anchor="middle" x="462" y="-191.3" font-family="Times,serif" font-size="14.00">Paralleles_Gateway_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_1yw\nbekf_1CN&#45;&gt;Task_00jh2\nel_1CN -->
+<g id="edge3" class="edge">
+<title>ExclusiveG\nateway_1yw\nbekf_1CN&#45;&gt;Task_00jh2\nel_1CN</title>
+<path fill="none" stroke="black" d="M425.81,-180.96C393.25,-169.22 344.25,-151.56 302.46,-136.5"/>
+<polygon fill="black" stroke="black" points="303.43,-133.13 292.83,-133.03 301.05,-139.71 303.43,-133.13"/>
+</g>
+<!-- Task_0g62i\n4q_1CN -->
+<g id="node4" class="node">
+<title>Task_0g62i\n4q_1CN</title>
+<polygon fill="lightgrey" stroke="black" points="462,-72.5 462,-140.5 944,-140.5 944,-72.5 462,-72.5"/>
+<text text-anchor="middle" x="502" y="-110.3" font-family="Times,serif" font-size="14.00">Task_0g62i</text>
+<text text-anchor="middle" x="502" y="-95.3" font-family="Times,serif" font-size="14.00">4q_1CN</text>
+<polyline fill="none" stroke="black" points="542,-72.5 542,-140.5 "/>
+<text text-anchor="middle" x="587" y="-125.3" font-family="Times,serif" font-size="14.00">Verkaufsas</text>
+<text text-anchor="middle" x="587" y="-110.3" font-family="Times,serif" font-size="14.00">sistent:1C</text>
+<text text-anchor="middle" x="587" y="-95.3" font-family="Times,serif" font-size="14.00">N__Lane_1w</text>
+<text text-anchor="middle" x="587" y="-80.3" font-family="Times,serif" font-size="14.00">yy754</text>
+<polyline fill="none" stroke="black" points="632,-72.5 632,-140.5 "/>
+<text text-anchor="middle" x="788" y="-102.8" font-family="Times,serif" font-size="14.00">Verechnungsdokumente_in_SAP_S/4HANA_erstellen</text>
+</g>
+<!-- ExclusiveG\nateway_1yw\nbekf_1CN&#45;&gt;Task_0g62i\n4q_1CN -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_1yw\nbekf_1CN&#45;&gt;Task_0g62i\n4q_1CN</title>
+<path fill="none" stroke="black" d="M498.34,-180.96C525.68,-171.14 564.57,-157.19 601.11,-144.07"/>
+<polygon fill="black" stroke="black" points="602.61,-147.25 610.84,-140.58 600.25,-140.66 602.61,-147.25"/>
+</g>
+<!-- Task_0g62i\n4q_1CN&#45;&gt;ExclusiveG\nateway_074\ndm0y_1CN -->
+<g id="edge4" class="edge">
+<title>Task_0g62i\n4q_1CN&#45;&gt;ExclusiveG\nateway_074\ndm0y_1CN</title>
+<path fill="none" stroke="black" d="M610.86,-72.43C575.52,-59.74 536.73,-45.82 507.61,-35.37"/>
+<polygon fill="black" stroke="black" points="508.72,-32.05 498.12,-31.97 506.35,-38.64 508.72,-32.05"/>
+</g>
+</g>
+</svg>

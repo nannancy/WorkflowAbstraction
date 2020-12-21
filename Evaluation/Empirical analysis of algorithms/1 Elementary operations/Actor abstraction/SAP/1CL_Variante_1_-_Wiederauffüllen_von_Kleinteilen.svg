@@ -1,0 +1,78 @@
+<svg width="600px" height="510px"
+ viewBox="0.00 0.00 558.00 473.78" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 469.78)">
+<title>1CL_Variante_1_&#45;_Wiederauffüllen_von_Kleinteilen</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-469.78 554,-469.78 554,4 -4,4"/>
+<!-- Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1 -->
+<g id="node1" class="node">
+<title>Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="0,-93.69 0,-176.69 550,-176.69 550,-93.69 0,-93.69"/>
+<text text-anchor="middle" x="45" y="-161.49" font-family="Times,serif" font-size="14.00">Task_05tde</text>
+<text text-anchor="middle" x="45" y="-146.49" font-family="Times,serif" font-size="14.00">1h_1CL_Var</text>
+<text text-anchor="middle" x="45" y="-131.49" font-family="Times,serif" font-size="14.00">1_Task_0gu</text>
+<text text-anchor="middle" x="45" y="-116.49" font-family="Times,serif" font-size="14.00">9o2e_1CL_V</text>
+<text text-anchor="middle" x="45" y="-101.49" font-family="Times,serif" font-size="14.00">ar1</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="90,-93.69 90,-176.69 "/>
+<text text-anchor="middle" x="133.5" y="-153.99" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="133.5" y="-138.99" font-family="Times,serif" font-size="14.00">raft:1CL__</text>
+<text text-anchor="middle" x="133.5" y="-123.99" font-family="Times,serif" font-size="14.00">Lane_1wg8v</text>
+<text text-anchor="middle" x="133.5" y="-108.99" font-family="Times,serif" font-size="14.00">mc</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="177,-93.69 177,-176.69 "/>
+<text text-anchor="middle" x="363.5" y="-161.49" font-family="Times,serif" font-size="14.00">Lagerfachkraft DO</text>
+<text text-anchor="middle" x="363.5" y="-146.49" font-family="Times,serif" font-size="14.00"> Lageraufgabe Wiederauffüllung_anzeigen</text>
+<text text-anchor="middle" x="363.5" y="-131.49" font-family="Times,serif" font-size="14.00">Wareneinheit_im_urprünglichen_Gang_abholen</text>
+<text text-anchor="middle" x="363.5" y="-116.49" font-family="Times,serif" font-size="14.00">Wareneinheit_aus_dem_Übergabepunkt_ins_Mezzanin_bewegen</text>
+<text text-anchor="middle" x="363.5" y="-101.49" font-family="Times,serif" font-size="14.00">Bestand_ist_aufgefüllt</text>
+</g>
+<!-- EndEvent_1\nwhywi5_1CL\n_Var1 -->
+<g id="node2" class="node">
+<title>EndEvent_1\nwhywi5_1CL\n_Var1</title>
+<ellipse fill="lightgrey" stroke="black" cx="275" cy="-28.6" rx="28.7" ry="28.7"/>
+<text text-anchor="middle" x="275" y="-24.9" font-family="Times,serif" font-size="14.00">Ende</text>
+</g>
+<!-- Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1&#45;&gt;EndEvent_1\nwhywi5_1CL\n_Var1 -->
+<g id="edge1" class="edge">
+<title>Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1&#45;&gt;EndEvent_1\nwhywi5_1CL\n_Var1</title>
+<path fill="none" stroke="black" d="M275,-93.46C275,-84.99 275,-76.09 275,-67.72"/>
+<polygon fill="black" stroke="black" points="278.5,-67.47 275,-57.47 271.5,-67.47 278.5,-67.47"/>
+</g>
+<!-- ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1 -->
+<g id="node3" class="node">
+<title>ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="57,-213.69 57,-296.69 493,-296.69 493,-213.69 57,-213.69"/>
+<text text-anchor="middle" x="99" y="-281.49" font-family="Times,serif" font-size="14.00">ExclusiveG</text>
+<text text-anchor="middle" x="99" y="-266.49" font-family="Times,serif" font-size="14.00">ateway_1yt</text>
+<text text-anchor="middle" x="99" y="-251.49" font-family="Times,serif" font-size="14.00">ygcf_Task_</text>
+<text text-anchor="middle" x="99" y="-236.49" font-family="Times,serif" font-size="14.00">0v9jfow_1C</text>
+<text text-anchor="middle" x="99" y="-221.49" font-family="Times,serif" font-size="14.00">L_Var1</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="141,-213.69 141,-296.69 "/>
+<text text-anchor="middle" x="194" y="-266.49" font-family="Times,serif" font-size="14.00">SAP_SCM_EW</text>
+<text text-anchor="middle" x="194" y="-251.49" font-family="Times,serif" font-size="14.00">M:1CL__Lan</text>
+<text text-anchor="middle" x="194" y="-236.49" font-family="Times,serif" font-size="14.00">e_1wzmt03</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="247,-213.69 247,-296.69 "/>
+<text text-anchor="middle" x="370" y="-281.49" font-family="Times,serif" font-size="14.00">SAP_SCM_EWM DO</text>
+<text text-anchor="middle" x="370" y="-266.49" font-family="Times,serif" font-size="14.00"> Komplexes_Gateway_/_SPLIT</text>
+<text text-anchor="middle" x="370" y="-251.49" font-family="Times,serif" font-size="14.00">Automatisch_wiederauffüllen</text>
+<text text-anchor="middle" x="370" y="-236.49" font-family="Times,serif" font-size="14.00">Komplexes_Gateway_/_JOIN</text>
+<text text-anchor="middle" x="370" y="-221.49" font-family="Times,serif" font-size="14.00">Lageraufgabe_Wiederauffüllung_erstellen</text>
+</g>
+<!-- ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1&#45;&gt;Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1 -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1&#45;&gt;Task_05tde\n1h_1CL_Var\n1_Task_0gu\n9o2e_1CL_V\nar1</title>
+<path fill="none" stroke="black" d="M275,-213.59C275,-205.06 275,-195.96 275,-187.11"/>
+<polygon fill="black" stroke="black" points="278.5,-186.88 275,-176.88 271.5,-186.88 278.5,-186.88"/>
+</g>
+<!-- StartEvent\n_1_1CL_Var\n1 -->
+<g id="node4" class="node">
+<title>StartEvent\n_1_1CL_Var\n1</title>
+<ellipse fill="lightgrey" stroke="black" cx="275" cy="-399.49" rx="66.09" ry="66.09"/>
+<text text-anchor="middle" x="275" y="-395.79" font-family="Times,serif" font-size="14.00">Bedingter_Start</text>
+</g>
+<!-- StartEvent\n_1_1CL_Var\n1&#45;&gt;ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1 -->
+<g id="edge3" class="edge">
+<title>StartEvent\n_1_1CL_Var\n1&#45;&gt;ExclusiveG\nateway_1yt\nygcf_Task_\n0v9jfow_1C\nL_Var1</title>
+<path fill="none" stroke="black" d="M275,-333.17C275,-324.34 275,-315.39 275,-306.87"/>
+<polygon fill="black" stroke="black" points="278.5,-306.72 275,-296.72 271.5,-306.72 278.5,-306.72"/>
+</g>
+</g>
+</svg>

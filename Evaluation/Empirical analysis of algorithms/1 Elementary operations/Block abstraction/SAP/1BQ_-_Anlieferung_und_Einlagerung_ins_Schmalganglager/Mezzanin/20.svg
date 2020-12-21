@@ -1,0 +1,70 @@
+<svg width="2252px" height="500px"
+ viewBox="0.00 0.00 928.00 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 202)">
+<title>20</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-202 924,-202 924,4 -4,4"/>
+<!-- ServiceTas\nk_0pksyz6_\n1BQ -->
+<g id="node1" class="node">
+<title>ServiceTas\nk_0pksyz6_\n1BQ</title>
+<polygon fill="lightgrey" stroke="black" points="0,-72.5 0,-125.5 542,-125.5 542,-72.5 0,-72.5"/>
+<text text-anchor="middle" x="41" y="-110.3" font-family="Times,serif" font-size="14.00">ServiceTas</text>
+<text text-anchor="middle" x="41" y="-95.3" font-family="Times,serif" font-size="14.00">k_0pksyz6_</text>
+<text text-anchor="middle" x="41" y="-80.3" font-family="Times,serif" font-size="14.00">1BQ</text>
+<polyline fill="none" stroke="black" points="82,-72.5 82,-125.5 "/>
+<text text-anchor="middle" x="123.5" y="-110.3" font-family="Times,serif" font-size="14.00">Käufer:1BQ</text>
+<text text-anchor="middle" x="123.5" y="-95.3" font-family="Times,serif" font-size="14.00">__Lane_1a6</text>
+<text text-anchor="middle" x="123.5" y="-80.3" font-family="Times,serif" font-size="14.00">bz8p</text>
+<polyline fill="none" stroke="black" points="165,-72.5 165,-125.5 "/>
+<text text-anchor="middle" x="353.5" y="-95.3" font-family="Times,serif" font-size="14.00">Bestand_vom_Lagerplatz_ROD_in_den_Lagerplatz_AFS_buchen</text>
+</g>
+<!-- ExclusiveG\nateway_0vl\n0spo_1BQ -->
+<g id="node4" class="node">
+<title>ExclusiveG\nateway_0vl\n0spo_1BQ</title>
+<polygon fill="lightgrey" stroke="black" points="505,-36 348.99,-18 505,0 661.01,-18 505,-36"/>
+<text text-anchor="middle" x="505" y="-14.3" font-family="Times,serif" font-size="14.00">Paralleles_Gateway_/_JOIN</text>
+</g>
+<!-- ServiceTas\nk_0pksyz6_\n1BQ&#45;&gt;ExclusiveG\nateway_0vl\n0spo_1BQ -->
+<g id="edge1" class="edge">
+<title>ServiceTas\nk_0pksyz6_\n1BQ&#45;&gt;ExclusiveG\nateway_0vl\n0spo_1BQ</title>
+<path fill="none" stroke="black" d="M346.65,-72.46C383.19,-60.12 425.92,-45.7 457.77,-34.95"/>
+<polygon fill="black" stroke="black" points="458.93,-38.25 467.29,-31.73 456.69,-31.61 458.93,-38.25"/>
+</g>
+<!-- ExclusiveG\nateway_0dm\nu8xw_1BQ -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_0dm\nu8xw_1BQ</title>
+<polygon fill="lightgrey" stroke="black" points="505,-198 342.12,-180 505,-162 667.88,-180 505,-198"/>
+<text text-anchor="middle" x="505" y="-176.3" font-family="Times,serif" font-size="14.00">Paralleles_Gateway_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_0dm\nu8xw_1BQ&#45;&gt;ServiceTas\nk_0pksyz6_\n1BQ -->
+<g id="edge3" class="edge">
+<title>ExclusiveG\nateway_0dm\nu8xw_1BQ&#45;&gt;ServiceTas\nk_0pksyz6_\n1BQ</title>
+<path fill="none" stroke="black" d="M466.88,-166.13C437.04,-156.05 394.37,-141.65 356.47,-128.86"/>
+<polygon fill="black" stroke="black" points="357.54,-125.52 346.95,-125.64 355.31,-132.16 357.54,-125.52"/>
+</g>
+<!-- Task_0sf0f\nzk_1BQ -->
+<g id="node3" class="node">
+<title>Task_0sf0f\nzk_1BQ</title>
+<polygon fill="lightgrey" stroke="black" points="560,-72.5 560,-125.5 920,-125.5 920,-72.5 560,-72.5"/>
+<text text-anchor="middle" x="598.5" y="-102.8" font-family="Times,serif" font-size="14.00">Task_0sf0f</text>
+<text text-anchor="middle" x="598.5" y="-87.8" font-family="Times,serif" font-size="14.00">zk_1BQ</text>
+<polyline fill="none" stroke="black" points="637,-72.5 637,-125.5 "/>
+<text text-anchor="middle" x="690" y="-110.3" font-family="Times,serif" font-size="14.00">SAP_SCM_EW</text>
+<text text-anchor="middle" x="690" y="-95.3" font-family="Times,serif" font-size="14.00">M:1BQ__Lan</text>
+<text text-anchor="middle" x="690" y="-80.3" font-family="Times,serif" font-size="14.00">e_140os6r</text>
+<polyline fill="none" stroke="black" points="743,-72.5 743,-125.5 "/>
+<text text-anchor="middle" x="831.5" y="-95.3" font-family="Times,serif" font-size="14.00">Verfügbarkeitsgruppe_ändern</text>
+</g>
+<!-- ExclusiveG\nateway_0dm\nu8xw_1BQ&#45;&gt;Task_0sf0f\nzk_1BQ -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_0dm\nu8xw_1BQ&#45;&gt;Task_0sf0f\nzk_1BQ</title>
+<path fill="none" stroke="black" d="M543.28,-166.13C573.25,-156.05 616.1,-141.65 654.16,-128.86"/>
+<polygon fill="black" stroke="black" points="655.36,-132.15 663.73,-125.64 653.13,-125.51 655.36,-132.15"/>
+</g>
+<!-- Task_0sf0f\nzk_1BQ&#45;&gt;ExclusiveG\nateway_0vl\n0spo_1BQ -->
+<g id="edge4" class="edge">
+<title>Task_0sf0f\nzk_1BQ&#45;&gt;ExclusiveG\nateway_0vl\n0spo_1BQ</title>
+<path fill="none" stroke="black" d="M664.03,-72.46C627.33,-60.12 584.42,-45.7 552.43,-34.95"/>
+<polygon fill="black" stroke="black" points="553.47,-31.6 542.87,-31.73 551.24,-38.24 553.47,-31.6"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,84 @@
+<svg width="600px" height="565px"
+ viewBox="0.00 0.00 484.00 455.79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 451.79)">
+<title>25_Transport_zum_Flugzeug_Containergepäck_Abflug</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-451.79 480,-451.79 480,4 -4,4"/>
+<!-- Task_0n2ie\nbf -->
+<g id="node1" class="node">
+<title>Task_0n2ie\nbf</title>
+<polygon fill="lightgrey" stroke="black" points="48.5,-288.69 48.5,-356.69 427.5,-356.69 427.5,-288.69 48.5,-288.69"/>
+<text text-anchor="middle" x="88.5" y="-326.49" font-family="Times,serif" font-size="14.00">Task_0n2ie</text>
+<text text-anchor="middle" x="88.5" y="-311.49" font-family="Times,serif" font-size="14.00">bf</text>
+<polyline fill="none" stroke="black" points="128.5,-288.69 128.5,-356.69 "/>
+<text text-anchor="middle" x="169" y="-341.49" font-family="Times,serif" font-size="14.00">Gepäckentn</text>
+<text text-anchor="middle" x="169" y="-326.49" font-family="Times,serif" font-size="14.00">ahmestelle</text>
+<text text-anchor="middle" x="169" y="-311.49" font-family="Times,serif" font-size="14.00">:Lane_0u4f</text>
+<text text-anchor="middle" x="169" y="-296.49" font-family="Times,serif" font-size="14.00">x9w</text>
+<polyline fill="none" stroke="black" points="209.5,-288.69 209.5,-356.69 "/>
+<text text-anchor="middle" x="318.5" y="-318.99" font-family="Times,serif" font-size="14.00">Container_auf_Hubtransporter_laden</text>
+</g>
+<!-- Task_1qbk8\n08 -->
+<g id="node4" class="node">
+<title>Task_1qbk8\n08</title>
+<polygon fill="lightgrey" stroke="black" points="42.5,-183.69 42.5,-251.69 433.5,-251.69 433.5,-183.69 42.5,-183.69"/>
+<text text-anchor="middle" x="84" y="-221.49" font-family="Times,serif" font-size="14.00">Task_1qbk8</text>
+<text text-anchor="middle" x="84" y="-206.49" font-family="Times,serif" font-size="14.00">08</text>
+<polyline fill="none" stroke="black" points="125.5,-183.69 125.5,-251.69 "/>
+<text text-anchor="middle" x="166" y="-236.49" font-family="Times,serif" font-size="14.00">Gepäckentn</text>
+<text text-anchor="middle" x="166" y="-221.49" font-family="Times,serif" font-size="14.00">ahmestelle</text>
+<text text-anchor="middle" x="166" y="-206.49" font-family="Times,serif" font-size="14.00">:Lane_0u4f</text>
+<text text-anchor="middle" x="166" y="-191.49" font-family="Times,serif" font-size="14.00">x9w</text>
+<polyline fill="none" stroke="black" points="206.5,-183.69 206.5,-251.69 "/>
+<text text-anchor="middle" x="320" y="-213.99" font-family="Times,serif" font-size="14.00">Hubtransporter_zum_Flugzeug_fahren</text>
+</g>
+<!-- Task_0n2ie\nbf&#45;&gt;Task_1qbk8\n08 -->
+<g id="edge1" class="edge">
+<title>Task_0n2ie\nbf&#45;&gt;Task_1qbk8\n08</title>
+<path fill="none" stroke="black" d="M238,-288.54C238,-280.08 238,-270.87 238,-261.99"/>
+<polygon fill="black" stroke="black" points="241.5,-261.79 238,-251.79 234.5,-261.79 241.5,-261.79"/>
+</g>
+<!-- Task_0abe6\nn3 -->
+<g id="node2" class="node">
+<title>Task_0abe6\nn3</title>
+<polygon fill="lightgrey" stroke="black" points="0,-93.69 0,-146.69 476,-146.69 476,-93.69 0,-93.69"/>
+<text text-anchor="middle" x="41" y="-123.99" font-family="Times,serif" font-size="14.00">Task_0abe6</text>
+<text text-anchor="middle" x="41" y="-108.99" font-family="Times,serif" font-size="14.00">n3</text>
+<polyline fill="none" stroke="black" points="82,-93.69 82,-146.69 "/>
+<text text-anchor="middle" x="123.5" y="-131.49" font-family="Times,serif" font-size="14.00">Flugzeug:L</text>
+<text text-anchor="middle" x="123.5" y="-116.49" font-family="Times,serif" font-size="14.00">ane_05p124</text>
+<text text-anchor="middle" x="123.5" y="-101.49" font-family="Times,serif" font-size="14.00">a</text>
+<polyline fill="none" stroke="black" points="165,-93.69 165,-146.69 "/>
+<text text-anchor="middle" x="320.5" y="-116.49" font-family="Times,serif" font-size="14.00">Gepäck_über_Ladeluke_in_den_Laderaum_befördern</text>
+</g>
+<!-- EndEvent_1\njm1yyo -->
+<g id="node3" class="node">
+<title>EndEvent_1\njm1yyo</title>
+<ellipse fill="lightgrey" stroke="black" cx="238" cy="-28.6" rx="28.7" ry="28.7"/>
+<text text-anchor="middle" x="238" y="-24.9" font-family="Times,serif" font-size="14.00">Ende</text>
+</g>
+<!-- Task_0abe6\nn3&#45;&gt;EndEvent_1\njm1yyo -->
+<g id="edge2" class="edge">
+<title>Task_0abe6\nn3&#45;&gt;EndEvent_1\njm1yyo</title>
+<path fill="none" stroke="black" d="M238,-93.28C238,-85.18 238,-76.08 238,-67.34"/>
+<polygon fill="black" stroke="black" points="241.5,-67.33 238,-57.33 234.5,-67.33 241.5,-67.33"/>
+</g>
+<!-- Task_1qbk8\n08&#45;&gt;Task_0abe6\nn3 -->
+<g id="edge3" class="edge">
+<title>Task_1qbk8\n08&#45;&gt;Task_0abe6\nn3</title>
+<path fill="none" stroke="black" d="M238,-183.56C238,-174.98 238,-165.71 238,-157"/>
+<polygon fill="black" stroke="black" points="241.5,-156.74 238,-146.74 234.5,-156.74 241.5,-156.74"/>
+</g>
+<!-- StartEvent\n_25 -->
+<g id="node5" class="node">
+<title>StartEvent\n_25</title>
+<ellipse fill="lightgrey" stroke="black" cx="238" cy="-420.49" rx="27.1" ry="27.1"/>
+<text text-anchor="middle" x="238" y="-416.79" font-family="Times,serif" font-size="14.00">Start</text>
+</g>
+<!-- StartEvent\n_25&#45;&gt;Task_0n2ie\nbf -->
+<g id="edge4" class="edge">
+<title>StartEvent\n_25&#45;&gt;Task_0n2ie\nbf</title>
+<path fill="none" stroke="black" d="M238,-393.06C238,-385.02 238,-375.96 238,-367.11"/>
+<polygon fill="black" stroke="black" points="241.5,-366.89 238,-356.89 234.5,-366.89 241.5,-366.89"/>
+</g>
+</g>
+</svg>

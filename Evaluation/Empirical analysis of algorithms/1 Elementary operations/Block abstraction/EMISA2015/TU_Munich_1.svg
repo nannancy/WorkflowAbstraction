@@ -1,0 +1,91 @@
+<svg width="600px" height="1370px"
+ viewBox="0.00 0.00 382.00 872.37" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 868.37)">
+<title>TU_Munich_1</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-868.37 378,-868.37 378,4 -4,4"/>
+<!-- Event_19sl\nsei -->
+<g id="node1" class="node">
+<title>Event_19sl\nsei</title>
+<ellipse fill="lightgrey" stroke="black" cx="187" cy="-44.2" rx="44.39" ry="44.39"/>
+<text text-anchor="middle" x="187" y="-40.5" font-family="Times,serif" font-size="14.00">endEvent</text>
+</g>
+<!-- Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9 -->
+<g id="node2" class="node">
+<title>Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="0,-124.89 0,-477.89 374,-477.89 374,-124.89 0,-124.89"/>
+<text text-anchor="middle" x="43" y="-320.19" font-family="Times,serif" font-size="14.00">Gateway_0n</text>
+<text text-anchor="middle" x="43" y="-305.19" font-family="Times,serif" font-size="14.00">7u7jr_Gate</text>
+<text text-anchor="middle" x="43" y="-290.19" font-family="Times,serif" font-size="14.00">way_1hqo3q</text>
+<text text-anchor="middle" x="43" y="-275.19" font-family="Times,serif" font-size="14.00">9</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="86,-124.89 86,-477.89 "/>
+<text text-anchor="middle" x="134.5" y="-342.69" font-family="Times,serif" font-size="14.00">Department</text>
+<text text-anchor="middle" x="134.5" y="-327.69" font-family="Times,serif" font-size="14.00">_of_Inform</text>
+<text text-anchor="middle" x="134.5" y="-312.69" font-family="Times,serif" font-size="14.00">atics:Lane</text>
+<text text-anchor="middle" x="134.5" y="-297.69" font-family="Times,serif" font-size="14.00">_1dmfw0k&amp;A</text>
+<text text-anchor="middle" x="134.5" y="-282.69" font-family="Times,serif" font-size="14.00">dmission_O</text>
+<text text-anchor="middle" x="134.5" y="-267.69" font-family="Times,serif" font-size="14.00">ffice:Lane</text>
+<text text-anchor="middle" x="134.5" y="-252.69" font-family="Times,serif" font-size="14.00">_0ps3dgu</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="183,-124.89 183,-477.89 "/>
+<text text-anchor="middle" x="278.5" y="-462.69" font-family="Times,serif" font-size="14.00">exclusiveGateway: </text>
+<text text-anchor="middle" x="278.5" y="-447.69" font-family="Times,serif" font-size="14.00"> XOR </text>
+<text text-anchor="middle" x="278.5" y="-432.69" font-family="Times,serif" font-size="14.00">(</text>
+<text text-anchor="middle" x="278.5" y="-417.69" font-family="Times,serif" font-size="14.00">exclusiveGateway)</text>
+<text text-anchor="middle" x="278.5" y="-402.69" font-family="Times,serif" font-size="14.00"> XOR </text>
+<text text-anchor="middle" x="278.5" y="-387.69" font-family="Times,serif" font-size="14.00">(</text>
+<text text-anchor="middle" x="278.5" y="-372.69" font-family="Times,serif" font-size="14.00">task_Check_documents</text>
+<text text-anchor="middle" x="278.5" y="-357.69" font-family="Times,serif" font-size="14.00">task_Forward_documents</text>
+<text text-anchor="middle" x="278.5" y="-342.69" font-family="Times,serif" font-size="14.00">task_Evaluate</text>
+<text text-anchor="middle" x="278.5" y="-327.69" font-family="Times,serif" font-size="14.00">exclusiveGateway: </text>
+<text text-anchor="middle" x="278.5" y="-312.69" font-family="Times,serif" font-size="14.00"> XOR </text>
+<text text-anchor="middle" x="278.5" y="-297.69" font-family="Times,serif" font-size="14.00">(</text>
+<text text-anchor="middle" x="278.5" y="-282.69" font-family="Times,serif" font-size="14.00">task_Send_interview_invitation</text>
+<text text-anchor="middle" x="278.5" y="-267.69" font-family="Times,serif" font-size="14.00">exclusiveGateway)</text>
+<text text-anchor="middle" x="278.5" y="-252.69" font-family="Times,serif" font-size="14.00"> XOR </text>
+<text text-anchor="middle" x="278.5" y="-237.69" font-family="Times,serif" font-size="14.00">(</text>
+<text text-anchor="middle" x="278.5" y="-222.69" font-family="Times,serif" font-size="14.00">task_Send_letter_of_rejection</text>
+<text text-anchor="middle" x="278.5" y="-207.69" font-family="Times,serif" font-size="14.00">exclusiveGateway)</text>
+<text text-anchor="middle" x="278.5" y="-192.69" font-family="Times,serif" font-size="14.00"> XOR </text>
+<text text-anchor="middle" x="278.5" y="-177.69" font-family="Times,serif" font-size="14.00">(</text>
+<text text-anchor="middle" x="278.5" y="-162.69" font-family="Times,serif" font-size="14.00">task_Send_letter_of_acceptance</text>
+<text text-anchor="middle" x="278.5" y="-147.69" font-family="Times,serif" font-size="14.00">exclusiveGateway)</text>
+<text text-anchor="middle" x="278.5" y="-132.69" font-family="Times,serif" font-size="14.00"> )</text>
+</g>
+<!-- Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9&#45;&gt;Event_19sl\nsei -->
+<g id="edge1" class="edge">
+<title>Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9&#45;&gt;Event_19sl\nsei</title>
+<path fill="none" stroke="black" d="M187,-124.89C187,-115.63 187,-106.76 187,-98.53"/>
+<polygon fill="black" stroke="black" points="190.5,-98.45 187,-88.46 183.5,-98.46 190.5,-98.45"/>
+</g>
+<!-- Event_066h\nn74 -->
+<g id="node3" class="node">
+<title>Event_066h\nn74</title>
+<ellipse fill="lightgrey" stroke="black" cx="187" cy="-734.38" rx="129.98" ry="129.98"/>
+<text text-anchor="middle" x="187" y="-730.68" font-family="Times,serif" font-size="14.00">startEvent_Documents__received</text>
+</g>
+<!-- Activity_0\nbhf14h -->
+<g id="node4" class="node">
+<title>Activity_0\nbhf14h</title>
+<polygon fill="lightgrey" stroke="black" points="20.5,-514.89 20.5,-567.89 353.5,-567.89 353.5,-514.89 20.5,-514.89"/>
+<text text-anchor="middle" x="57.5" y="-545.19" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="57.5" y="-530.19" font-family="Times,serif" font-size="14.00">bhf14h</text>
+<polyline fill="none" stroke="black" points="94.5,-514.89 94.5,-567.89 "/>
+<text text-anchor="middle" x="136" y="-552.69" font-family="Times,serif" font-size="14.00">Admission_</text>
+<text text-anchor="middle" x="136" y="-537.69" font-family="Times,serif" font-size="14.00">Office:Lan</text>
+<text text-anchor="middle" x="136" y="-522.69" font-family="Times,serif" font-size="14.00">e_0ps3dgu</text>
+<polyline fill="none" stroke="black" points="177.5,-514.89 177.5,-567.89 "/>
+<text text-anchor="middle" x="265.5" y="-537.69" font-family="Times,serif" font-size="14.00">task_Check_bachelor_degree</text>
+</g>
+<!-- Event_066h\nn74&#45;&gt;Activity_0\nbhf14h -->
+<g id="edge2" class="edge">
+<title>Event_066h\nn74&#45;&gt;Activity_0\nbhf14h</title>
+<path fill="none" stroke="black" d="M187,-604.14C187,-594.87 187,-586.08 187,-578.2"/>
+<polygon fill="black" stroke="black" points="190.5,-578.06 187,-568.06 183.5,-578.06 190.5,-578.06"/>
+</g>
+<!-- Activity_0\nbhf14h&#45;&gt;Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9 -->
+<g id="edge3" class="edge">
+<title>Activity_0\nbhf14h&#45;&gt;Gateway_0n\n7u7jr_Gate\nway_1hqo3q\n9</title>
+<path fill="none" stroke="black" d="M187,-514.47C187,-506.88 187,-497.95 187,-488.11"/>
+<polygon fill="black" stroke="black" points="190.5,-488 187,-478 183.5,-488 190.5,-488"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="977px" height="500px"
+ viewBox="0.00 0.00 431.71 221.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 217)">
+<title>22</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-217 427.71,-217 427.71,4 -4,4"/>
+<!-- ExclusiveG\nateway_1mt\n0aj1 -->
+<g id="node1" class="node">
+<title>ExclusiveG\nateway_1mt\n0aj1</title>
+<polygon fill="lightgrey" stroke="black" points="139.71,-36 6.66,-18 139.71,0 272.77,-18 139.71,-36"/>
+<text text-anchor="middle" x="139.71" y="-14.3" font-family="Times,serif" font-size="14.00">Statuskontrolle_/_JOIN</text>
+</g>
+<!-- ExclusiveG\nateway_1uf\ndyns -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_1uf\ndyns</title>
+<polygon fill="lightgrey" stroke="black" points="139.71,-213 -0.21,-195 139.71,-177 279.64,-195 139.71,-213"/>
+<text text-anchor="middle" x="139.71" y="-191.3" font-family="Times,serif" font-size="14.00">Statuskontrolle_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_1uf\ndyns&#45;&gt;ExclusiveG\nateway_1mt\n0aj1 -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_1uf\ndyns&#45;&gt;ExclusiveG\nateway_1mt\n0aj1</title>
+<path fill="none" stroke="black" d="M104,-181.5C85.77,-173.09 65.26,-160.01 54.71,-141 39.83,-114.19 39.83,-98.81 54.71,-72 63.6,-55.98 79.56,-44.17 95.27,-35.82"/>
+<polygon fill="black" stroke="black" points="97.02,-38.86 104.44,-31.3 93.93,-32.59 97.02,-38.86"/>
+</g>
+<!-- Task_1q873\nx3 -->
+<g id="node3" class="node">
+<title>Task_1q873\nx3</title>
+<polygon fill="lightgrey" stroke="black" points="63.71,-72.5 63.71,-140.5 423.71,-140.5 423.71,-72.5 63.71,-72.5"/>
+<text text-anchor="middle" x="105.21" y="-110.3" font-family="Times,serif" font-size="14.00">Task_1q873</text>
+<text text-anchor="middle" x="105.21" y="-95.3" font-family="Times,serif" font-size="14.00">x3</text>
+<polyline fill="none" stroke="black" points="146.71,-72.5 146.71,-140.5 "/>
+<text text-anchor="middle" x="187.71" y="-125.3" font-family="Times,serif" font-size="14.00">Sicherheit</text>
+<text text-anchor="middle" x="187.71" y="-110.3" font-family="Times,serif" font-size="14.00">sbereich:L</text>
+<text text-anchor="middle" x="187.71" y="-95.3" font-family="Times,serif" font-size="14.00">ane_0vzo60</text>
+<text text-anchor="middle" x="187.71" y="-80.3" font-family="Times,serif" font-size="14.00">t</text>
+<polyline fill="none" stroke="black" points="228.71,-72.5 228.71,-140.5 "/>
+<text text-anchor="middle" x="326.21" y="-102.8" font-family="Times,serif" font-size="14.00">Passagier_manuell_kontrollieren</text>
+</g>
+<!-- ExclusiveG\nateway_1uf\ndyns&#45;&gt;Task_1q873\nx3 -->
+<g id="edge1" class="edge">
+<title>ExclusiveG\nateway_1uf\ndyns&#45;&gt;Task_1q873\nx3</title>
+<path fill="none" stroke="black" d="M157.83,-178.93C168.43,-170.11 182.37,-158.52 195.92,-147.25"/>
+<polygon fill="black" stroke="black" points="198.38,-149.76 203.83,-140.67 193.9,-144.38 198.38,-149.76"/>
+</g>
+<!-- Task_1q873\nx3&#45;&gt;ExclusiveG\nateway_1mt\n0aj1 -->
+<g id="edge3" class="edge">
+<title>Task_1q873\nx3&#45;&gt;ExclusiveG\nateway_1mt\n0aj1</title>
+<path fill="none" stroke="black" d="M203.8,-72.3C190.89,-61.57 176.94,-49.96 165.35,-40.32"/>
+<polygon fill="black" stroke="black" points="167.31,-37.4 157.38,-33.7 162.83,-42.78 167.31,-37.4"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg width="1075px" height="500px"
+ viewBox="0.00 0.00 442.88 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 202)">
+<title>24</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-202 438.88,-202 438.88,4 -4,4"/>
+<!-- ExclusiveG\nateway_0k1\n7d6h -->
+<g id="node1" class="node">
+<title>ExclusiveG\nateway_0k1\n7d6h</title>
+<polygon fill="lightgrey" stroke="black" points="171.88,-36 12.85,-18 171.88,0 330.91,-18 171.88,-36"/>
+<text text-anchor="middle" x="171.88" y="-14.3" font-family="Times,serif" font-size="14.00">Gepäcke_vorhanden?_/JOIN</text>
+</g>
+<!-- ExclusiveG\nateway_0s6\nfx8f -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_0s6\nfx8f</title>
+<polygon fill="lightgrey" stroke="black" points="171.88,-198 0.12,-180 171.88,-162 343.65,-180 171.88,-198"/>
+<text text-anchor="middle" x="171.88" y="-176.3" font-family="Times,serif" font-size="14.00">Gepäcke_vorhanden?_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_0s6\nfx8f&#45;&gt;ExclusiveG\nateway_0k1\n7d6h -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_0s6\nfx8f&#45;&gt;ExclusiveG\nateway_0k1\n7d6h</title>
+<path fill="none" stroke="black" d="M138.23,-165.36C121.68,-156.73 103.31,-143.8 93.88,-126 82.65,-104.79 82.65,-93.21 93.88,-72 101.68,-57.28 115.59,-45.89 129.53,-37.51"/>
+<polygon fill="black" stroke="black" points="131.61,-40.36 138.63,-32.43 128.19,-34.25 131.61,-40.36"/>
+</g>
+<!-- Task_0rg96\n7g -->
+<g id="node3" class="node">
+<title>Task_0rg96\n7g</title>
+<polygon fill="lightgrey" stroke="black" points="102.88,-72.5 102.88,-125.5 434.88,-125.5 434.88,-72.5 102.88,-72.5"/>
+<text text-anchor="middle" x="143.38" y="-102.8" font-family="Times,serif" font-size="14.00">Task_0rg96</text>
+<text text-anchor="middle" x="143.38" y="-87.8" font-family="Times,serif" font-size="14.00">7g</text>
+<polyline fill="none" stroke="black" points="183.88,-72.5 183.88,-125.5 "/>
+<text text-anchor="middle" x="225.38" y="-110.3" font-family="Times,serif" font-size="14.00">Check&#45;In&#45;S</text>
+<text text-anchor="middle" x="225.38" y="-95.3" font-family="Times,serif" font-size="14.00">chalter:La</text>
+<text text-anchor="middle" x="225.38" y="-80.3" font-family="Times,serif" font-size="14.00">ne_1020h5z</text>
+<polyline fill="none" stroke="black" points="266.88,-72.5 266.88,-125.5 "/>
+<text text-anchor="middle" x="350.88" y="-95.3" font-family="Times,serif" font-size="14.00">Prozess_Gepäckabfertigung</text>
+</g>
+<!-- ExclusiveG\nateway_0s6\nfx8f&#45;&gt;Task_0rg96\n7g -->
+<g id="edge1" class="edge">
+<title>ExclusiveG\nateway_0s6\nfx8f&#45;&gt;Task_0rg96\n7g</title>
+<path fill="none" stroke="black" d="M190.58,-163.77C201.63,-154.77 216.04,-143.04 229.48,-132.09"/>
+<polygon fill="black" stroke="black" points="231.71,-134.79 237.26,-125.76 227.29,-129.36 231.71,-134.79"/>
+</g>
+<!-- Task_0rg96\n7g&#45;&gt;ExclusiveG\nateway_0k1\n7d6h -->
+<g id="edge3" class="edge">
+<title>Task_0rg96\n7g&#45;&gt;ExclusiveG\nateway_0k1\n7d6h</title>
+<path fill="none" stroke="black" d="M237.39,-72.35C224.71,-62.03 210.26,-50.26 198.17,-40.41"/>
+<polygon fill="black" stroke="black" points="200.18,-37.54 190.22,-33.93 195.76,-42.96 200.18,-37.54"/>
+</g>
+</g>
+</svg>

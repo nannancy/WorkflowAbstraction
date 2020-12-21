@@ -1,0 +1,95 @@
+<svg width="591px" height="500px"
+ viewBox="0.00 0.00 526.40 445.19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 441.19)">
+<title>9</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-441.19 522.4,-441.19 522.4,4 -4,4"/>
+<!-- ExclusiveG\nateway_087\n4w9z -->
+<g id="node1" class="node">
+<title>ExclusiveG\nateway_087\n4w9z</title>
+<polygon fill="lightgrey" stroke="black" points="230.9,-437.19 75.73,-419.19 230.9,-401.19 386.08,-419.19 230.9,-437.19"/>
+<text text-anchor="middle" x="230.9" y="-415.49" font-family="Times,serif" font-size="14.00">Status_überprüfen_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_0hg\nr87e -->
+<g id="node4" class="node">
+<title>ExclusiveG\nateway_0hg\nr87e</title>
+<polygon fill="lightgrey" stroke="black" points="148.9,-59.6 0.1,-41.6 148.9,-23.6 297.71,-41.6 148.9,-59.6"/>
+<text text-anchor="middle" x="148.9" y="-37.9" font-family="Times,serif" font-size="14.00">Status_überprüfen_/_JOIN</text>
+</g>
+<!-- ExclusiveG\nateway_087\n4w9z&#45;&gt;ExclusiveG\nateway_0hg\nr87e -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_087\n4w9z&#45;&gt;ExclusiveG\nateway_0hg\nr87e</title>
+<path fill="none" stroke="black" d="M213.32,-402.74C203.37,-392.98 191.62,-379.54 184.9,-365.19 137.78,-264.49 141.91,-127.41 146.28,-69.83"/>
+<polygon fill="black" stroke="black" points="149.78,-69.97 147.11,-59.72 142.8,-69.4 149.78,-69.97"/>
+</g>
+<!-- Task_04mc7\nzf -->
+<g id="node6" class="node">
+<title>Task_04mc7\nzf</title>
+<polygon fill="lightgrey" stroke="black" points="194.4,-296.69 194.4,-364.69 467.4,-364.69 467.4,-296.69 194.4,-296.69"/>
+<text text-anchor="middle" x="237.9" y="-334.49" font-family="Times,serif" font-size="14.00">Task_04mc7</text>
+<text text-anchor="middle" x="237.9" y="-319.49" font-family="Times,serif" font-size="14.00">zf</text>
+<polyline fill="none" stroke="black" points="281.4,-296.69 281.4,-364.69 "/>
+<text text-anchor="middle" x="324.4" y="-349.49" font-family="Times,serif" font-size="14.00">Gepäck_Sic</text>
+<text text-anchor="middle" x="324.4" y="-334.49" font-family="Times,serif" font-size="14.00">herheitsko</text>
+<text text-anchor="middle" x="324.4" y="-319.49" font-family="Times,serif" font-size="14.00">ntrolle:La</text>
+<text text-anchor="middle" x="324.4" y="-304.49" font-family="Times,serif" font-size="14.00">ne_0dxw77z</text>
+<polyline fill="none" stroke="black" points="367.4,-296.69 367.4,-364.69 "/>
+<text text-anchor="middle" x="417.4" y="-326.99" font-family="Times,serif" font-size="14.00">Gepäck_öffnen</text>
+</g>
+<!-- ExclusiveG\nateway_087\n4w9z&#45;&gt;Task_04mc7\nzf -->
+<g id="edge1" class="edge">
+<title>ExclusiveG\nateway_087\n4w9z&#45;&gt;Task_04mc7\nzf</title>
+<path fill="none" stroke="black" d="M248.32,-403.13C258.52,-394.3 271.92,-382.71 284.95,-371.44"/>
+<polygon fill="black" stroke="black" points="287.28,-374.05 292.55,-364.87 282.7,-368.76 287.28,-374.05"/>
+</g>
+<!-- ExclusiveG\nateway_1yd\nw5c6 -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_1yd\nw5c6</title>
+<polygon fill="lightgrey" stroke="black" points="347.9,-155.19 192.73,-137.19 347.9,-119.19 503.08,-137.19 347.9,-155.19"/>
+<text text-anchor="middle" x="347.9" y="-133.49" font-family="Times,serif" font-size="14.00">Status_überprüfen_/_SPLIT</text>
+</g>
+<!-- ExclusiveG\nateway_1yd\nw5c6&#45;&gt;ExclusiveG\nateway_0hg\nr87e -->
+<g id="edge4" class="edge">
+<title>ExclusiveG\nateway_1yd\nw5c6&#45;&gt;ExclusiveG\nateway_0hg\nr87e</title>
+<path fill="none" stroke="black" d="M318.54,-122.38C283.66,-105.97 225.37,-78.56 187.03,-60.53"/>
+<polygon fill="black" stroke="black" points="188.28,-57.25 177.74,-56.16 185.3,-63.58 188.28,-57.25"/>
+</g>
+<!-- EndEvent_0\nsokwfi -->
+<g id="node5" class="node">
+<title>EndEvent_0\nsokwfi</title>
+<ellipse fill="lightgrey" stroke="black" cx="356.9" cy="-41.6" rx="41.69" ry="41.69"/>
+<text text-anchor="middle" x="356.9" y="-37.9" font-family="Times,serif" font-size="14.00">Abbruch</text>
+</g>
+<!-- ExclusiveG\nateway_1yd\nw5c6&#45;&gt;EndEvent_0\nsokwfi -->
+<g id="edge3" class="edge">
+<title>ExclusiveG\nateway_1yd\nw5c6&#45;&gt;EndEvent_0\nsokwfi</title>
+<path fill="none" stroke="black" d="M349.55,-119.03C350.26,-111.66 351.13,-102.64 352.02,-93.4"/>
+<polygon fill="black" stroke="black" points="355.51,-93.65 352.98,-83.36 348.54,-92.98 355.51,-93.65"/>
+</g>
+<!-- Task_00aru\na4 -->
+<g id="node3" class="node">
+<title>Task_00aru\na4</title>
+<polygon fill="lightgrey" stroke="black" points="177.4,-191.69 177.4,-259.69 518.4,-259.69 518.4,-191.69 177.4,-191.69"/>
+<text text-anchor="middle" x="217.4" y="-229.49" font-family="Times,serif" font-size="14.00">Task_00aru</text>
+<text text-anchor="middle" x="217.4" y="-214.49" font-family="Times,serif" font-size="14.00">a4</text>
+<polyline fill="none" stroke="black" points="257.4,-191.69 257.4,-259.69 "/>
+<text text-anchor="middle" x="300.4" y="-244.49" font-family="Times,serif" font-size="14.00">Gepäck_Sic</text>
+<text text-anchor="middle" x="300.4" y="-229.49" font-family="Times,serif" font-size="14.00">herheitsko</text>
+<text text-anchor="middle" x="300.4" y="-214.49" font-family="Times,serif" font-size="14.00">ntrolle:La</text>
+<text text-anchor="middle" x="300.4" y="-199.49" font-family="Times,serif" font-size="14.00">ne_0dxw77z</text>
+<polyline fill="none" stroke="black" points="343.4,-191.69 343.4,-259.69 "/>
+<text text-anchor="middle" x="430.9" y="-221.99" font-family="Times,serif" font-size="14.00">Gepäck_manuell_überprüfen</text>
+</g>
+<!-- Task_00aru\na4&#45;&gt;ExclusiveG\nateway_1yd\nw5c6 -->
+<g id="edge5" class="edge">
+<title>Task_00aru\na4&#45;&gt;ExclusiveG\nateway_1yd\nw5c6</title>
+<path fill="none" stroke="black" d="M347.9,-191.5C347.9,-182.88 347.9,-173.71 347.9,-165.44"/>
+<polygon fill="black" stroke="black" points="351.4,-165.22 347.9,-155.22 344.4,-165.22 351.4,-165.22"/>
+</g>
+<!-- Task_04mc7\nzf&#45;&gt;Task_00aru\na4 -->
+<g id="edge6" class="edge">
+<title>Task_04mc7\nzf&#45;&gt;Task_00aru\na4</title>
+<path fill="none" stroke="black" d="M336.38,-296.54C337.79,-287.99 339.32,-278.67 340.8,-269.7"/>
+<polygon fill="black" stroke="black" points="344.27,-270.22 342.44,-259.79 337.36,-269.08 344.27,-270.22"/>
+</g>
+</g>
+</svg>

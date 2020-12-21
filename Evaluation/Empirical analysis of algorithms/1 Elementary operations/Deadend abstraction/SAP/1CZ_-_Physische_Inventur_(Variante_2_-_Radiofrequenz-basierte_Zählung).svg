@@ -1,0 +1,221 @@
+<svg width="600px" height="1161px"
+ viewBox="0.00 0.00 592.00 1145.79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 1141.79)">
+<title>1CZ_&#45;_Physische_Inventur_(Variante_2_&#45;_Radiofrequenz&#45;basierte_Zählung)</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-1141.79 588,-1141.79 588,4 -4,4"/>
+<!-- Task_18t8m\n2r -->
+<g id="node1" class="node">
+<title>Task_18t8m\n2r</title>
+<polygon fill="lightgrey" stroke="black" points="149.5,-693.69 149.5,-761.69 434.5,-761.69 434.5,-693.69 149.5,-693.69"/>
+<text text-anchor="middle" x="192" y="-731.49" font-family="Times,serif" font-size="14.00">Task_18t8m</text>
+<text text-anchor="middle" x="192" y="-716.49" font-family="Times,serif" font-size="14.00">2r</text>
+<polyline fill="none" stroke="black" points="234.5,-693.69 234.5,-761.69 "/>
+<text text-anchor="middle" x="276.5" y="-746.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="276.5" y="-731.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="276.5" y="-716.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="276.5" y="-701.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="318.5,-693.69 318.5,-761.69 "/>
+<text text-anchor="middle" x="376.5" y="-723.99" font-family="Times,serif" font-size="14.00">RF&#45;basiert_zählen</text>
+</g>
+<!-- Task_1yrlo\nff -->
+<g id="node8" class="node">
+<title>Task_1yrlo\nff</title>
+<polygon fill="lightgrey" stroke="black" points="71,-588.69 71,-656.69 513,-656.69 513,-588.69 71,-588.69"/>
+<text text-anchor="middle" x="110" y="-626.49" font-family="Times,serif" font-size="14.00">Task_1yrlo</text>
+<text text-anchor="middle" x="110" y="-611.49" font-family="Times,serif" font-size="14.00">ff</text>
+<polyline fill="none" stroke="black" points="149,-588.69 149,-656.69 "/>
+<text text-anchor="middle" x="191" y="-641.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="191" y="-626.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="191" y="-611.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="191" y="-596.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="233,-588.69 233,-656.69 "/>
+<text text-anchor="middle" x="373" y="-618.99" font-family="Times,serif" font-size="14.00">Nachgezählte_Inventurdokumente_kontrollieren</text>
+</g>
+<!-- Task_18t8m\n2r&#45;&gt;Task_1yrlo\nff -->
+<g id="edge1" class="edge">
+<title>Task_18t8m\n2r&#45;&gt;Task_1yrlo\nff</title>
+<path fill="none" stroke="black" d="M292,-693.54C292,-685.08 292,-675.87 292,-666.99"/>
+<polygon fill="black" stroke="black" points="295.5,-666.79 292,-656.79 288.5,-666.79 295.5,-666.79"/>
+</g>
+<!-- Task_1a7ar\nu6 -->
+<g id="node2" class="node">
+<title>Task_1a7ar\nu6</title>
+<polygon fill="lightgrey" stroke="black" points="21.5,-483.69 21.5,-551.69 562.5,-551.69 562.5,-483.69 21.5,-483.69"/>
+<text text-anchor="middle" x="61.5" y="-521.49" font-family="Times,serif" font-size="14.00">Task_1a7ar</text>
+<text text-anchor="middle" x="61.5" y="-506.49" font-family="Times,serif" font-size="14.00">u6</text>
+<polyline fill="none" stroke="black" points="101.5,-483.69 101.5,-551.69 "/>
+<text text-anchor="middle" x="143.5" y="-536.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="143.5" y="-521.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="143.5" y="-506.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="143.5" y="-491.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="185.5,-483.69 185.5,-551.69 "/>
+<text text-anchor="middle" x="374" y="-513.99" font-family="Times,serif" font-size="14.00">Differenzen_der_physischen_Inventur_in_SAP_EWM_einbuchen</text>
+</g>
+<!-- Task_07edb\n6j -->
+<g id="node6" class="node">
+<title>Task_07edb\n6j</title>
+<polygon fill="lightgrey" stroke="black" points="0,-378.69 0,-446.69 584,-446.69 584,-378.69 0,-378.69"/>
+<text text-anchor="middle" x="41.5" y="-416.49" font-family="Times,serif" font-size="14.00">Task_07edb</text>
+<text text-anchor="middle" x="41.5" y="-401.49" font-family="Times,serif" font-size="14.00">6j</text>
+<polyline fill="none" stroke="black" points="83,-378.69 83,-446.69 "/>
+<text text-anchor="middle" x="125" y="-431.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="125" y="-416.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="125" y="-401.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="125" y="-386.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="167,-378.69 167,-446.69 "/>
+<text text-anchor="middle" x="375.5" y="-408.99" font-family="Times,serif" font-size="14.00">Differenzen_der_physischen_Inventur_ins_SAP_S/4HANA_transferieren</text>
+</g>
+<!-- Task_1a7ar\nu6&#45;&gt;Task_07edb\n6j -->
+<g id="edge2" class="edge">
+<title>Task_1a7ar\nu6&#45;&gt;Task_07edb\n6j</title>
+<path fill="none" stroke="black" d="M292,-483.54C292,-475.08 292,-465.87 292,-456.99"/>
+<polygon fill="black" stroke="black" points="295.5,-456.79 292,-446.79 288.5,-456.79 295.5,-456.79"/>
+</g>
+<!-- Task_1lqmd\nkl -->
+<g id="node3" class="node">
+<title>Task_1lqmd\nkl</title>
+<polygon fill="lightgrey" stroke="black" points="76.5,-183.69 76.5,-251.69 507.5,-251.69 507.5,-183.69 76.5,-183.69"/>
+<text text-anchor="middle" x="119" y="-221.49" font-family="Times,serif" font-size="14.00">Task_1lqmd</text>
+<text text-anchor="middle" x="119" y="-206.49" font-family="Times,serif" font-size="14.00">kl</text>
+<polyline fill="none" stroke="black" points="161.5,-183.69 161.5,-251.69 "/>
+<text text-anchor="middle" x="203.5" y="-236.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="203.5" y="-221.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="203.5" y="-206.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="203.5" y="-191.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="245.5,-183.69 245.5,-251.69 "/>
+<text text-anchor="middle" x="376.5" y="-213.99" font-family="Times,serif" font-size="14.00">Geblockte_Inventur&#45;Differenzen_analysieren</text>
+</g>
+<!-- Task_1f461\n0t -->
+<g id="node7" class="node">
+<title>Task_1f461\n0t</title>
+<polygon fill="lightgrey" stroke="black" points="89.5,-93.69 89.5,-146.69 494.5,-146.69 494.5,-93.69 89.5,-93.69"/>
+<text text-anchor="middle" x="130" y="-123.99" font-family="Times,serif" font-size="14.00">Task_1f461</text>
+<text text-anchor="middle" x="130" y="-108.99" font-family="Times,serif" font-size="14.00">0t</text>
+<polyline fill="none" stroke="black" points="170.5,-93.69 170.5,-146.69 "/>
+<text text-anchor="middle" x="213" y="-131.49" font-family="Times,serif" font-size="14.00">Controller</text>
+<text text-anchor="middle" x="213" y="-116.49" font-family="Times,serif" font-size="14.00">:1CZ__Lane</text>
+<text text-anchor="middle" x="213" y="-101.49" font-family="Times,serif" font-size="14.00">_0rn0jn5</text>
+<polyline fill="none" stroke="black" points="255.5,-93.69 255.5,-146.69 "/>
+<text text-anchor="middle" x="375" y="-116.49" font-family="Times,serif" font-size="14.00">Differenzen_in_SAP_S/4HANA_buchen</text>
+</g>
+<!-- Task_1lqmd\nkl&#45;&gt;Task_1f461\n0t -->
+<g id="edge3" class="edge">
+<title>Task_1lqmd\nkl&#45;&gt;Task_1f461\n0t</title>
+<path fill="none" stroke="black" d="M292,-183.56C292,-174.98 292,-165.71 292,-157"/>
+<polygon fill="black" stroke="black" points="295.5,-156.74 292,-146.74 288.5,-156.74 295.5,-156.74"/>
+</g>
+<!-- StartEvent\n_1_1CZ_Var\n2 -->
+<g id="node4" class="node">
+<title>StartEvent\n_1_1CZ_Var\n2</title>
+<ellipse fill="lightgrey" stroke="black" cx="292" cy="-1110.49" rx="27.1" ry="27.1"/>
+<text text-anchor="middle" x="292" y="-1106.79" font-family="Times,serif" font-size="14.00">Start</text>
+</g>
+<!-- Task_0axx1\nbp -->
+<g id="node5" class="node">
+<title>Task_0axx1\nbp</title>
+<polygon fill="lightgrey" stroke="black" points="132,-993.69 132,-1046.69 452,-1046.69 452,-993.69 132,-993.69"/>
+<text text-anchor="middle" x="173.5" y="-1023.99" font-family="Times,serif" font-size="14.00">Task_0axx1</text>
+<text text-anchor="middle" x="173.5" y="-1008.99" font-family="Times,serif" font-size="14.00">bp</text>
+<polyline fill="none" stroke="black" points="215,-993.69 215,-1046.69 "/>
+<text text-anchor="middle" x="258" y="-1031.49" font-family="Times,serif" font-size="14.00">Lagerleitu</text>
+<text text-anchor="middle" x="258" y="-1016.49" font-family="Times,serif" font-size="14.00">ng:1CZ__La</text>
+<text text-anchor="middle" x="258" y="-1001.49" font-family="Times,serif" font-size="14.00">ne_1tzanw4</text>
+<polyline fill="none" stroke="black" points="301,-993.69 301,-1046.69 "/>
+<text text-anchor="middle" x="376.5" y="-1016.49" font-family="Times,serif" font-size="14.00">Offene_Behälter_suchen</text>
+</g>
+<!-- StartEvent\n_1_1CZ_Var\n2&#45;&gt;Task_0axx1\nbp -->
+<g id="edge4" class="edge">
+<title>StartEvent\n_1_1CZ_Var\n2&#45;&gt;Task_0axx1\nbp</title>
+<path fill="none" stroke="black" d="M292,-1083C292,-1074.84 292,-1065.71 292,-1057.03"/>
+<polygon fill="black" stroke="black" points="295.5,-1056.76 292,-1046.76 288.5,-1056.76 295.5,-1056.76"/>
+</g>
+<!-- Task_14hq1\nzm -->
+<g id="node9" class="node">
+<title>Task_14hq1\nzm</title>
+<polygon fill="lightgrey" stroke="black" points="76.5,-903.69 76.5,-956.69 507.5,-956.69 507.5,-903.69 76.5,-903.69"/>
+<text text-anchor="middle" x="118" y="-933.99" font-family="Times,serif" font-size="14.00">Task_14hq1</text>
+<text text-anchor="middle" x="118" y="-918.99" font-family="Times,serif" font-size="14.00">zm</text>
+<polyline fill="none" stroke="black" points="159.5,-903.69 159.5,-956.69 "/>
+<text text-anchor="middle" x="202.5" y="-941.49" font-family="Times,serif" font-size="14.00">Lagerleitu</text>
+<text text-anchor="middle" x="202.5" y="-926.49" font-family="Times,serif" font-size="14.00">ng:1CZ__La</text>
+<text text-anchor="middle" x="202.5" y="-911.49" font-family="Times,serif" font-size="14.00">ne_1tzanw4</text>
+<polyline fill="none" stroke="black" points="245.5,-903.69 245.5,-956.69 "/>
+<text text-anchor="middle" x="376.5" y="-926.49" font-family="Times,serif" font-size="14.00">Dokument_für_physische_Inventur_erstellen</text>
+</g>
+<!-- Task_0axx1\nbp&#45;&gt;Task_14hq1\nzm -->
+<g id="edge5" class="edge">
+<title>Task_0axx1\nbp&#45;&gt;Task_14hq1\nzm</title>
+<path fill="none" stroke="black" d="M292,-993.27C292,-985.03 292,-975.77 292,-966.97"/>
+<polygon fill="black" stroke="black" points="295.5,-966.94 292,-956.94 288.5,-966.94 295.5,-966.94"/>
+</g>
+<!-- Task_1ycbr\n0x -->
+<g id="node11" class="node">
+<title>Task_1ycbr\n0x</title>
+<polygon fill="lightgrey" stroke="black" points="90,-288.69 90,-341.69 494,-341.69 494,-288.69 90,-288.69"/>
+<text text-anchor="middle" x="130" y="-318.99" font-family="Times,serif" font-size="14.00">Task_1ycbr</text>
+<text text-anchor="middle" x="130" y="-303.99" font-family="Times,serif" font-size="14.00">0x</text>
+<polyline fill="none" stroke="black" points="170,-288.69 170,-341.69 "/>
+<text text-anchor="middle" x="212.5" y="-326.49" font-family="Times,serif" font-size="14.00">Controller</text>
+<text text-anchor="middle" x="212.5" y="-311.49" font-family="Times,serif" font-size="14.00">:1CZ__Lane</text>
+<text text-anchor="middle" x="212.5" y="-296.49" font-family="Times,serif" font-size="14.00">_0rn0jn5</text>
+<polyline fill="none" stroke="black" points="255,-288.69 255,-341.69 "/>
+<text text-anchor="middle" x="374.5" y="-311.49" font-family="Times,serif" font-size="14.00">Differenzen_in_SAP_S/4HANA_buchen</text>
+</g>
+<!-- Task_07edb\n6j&#45;&gt;Task_1ycbr\n0x -->
+<g id="edge6" class="edge">
+<title>Task_07edb\n6j&#45;&gt;Task_1ycbr\n0x</title>
+<path fill="none" stroke="black" d="M292,-378.56C292,-369.98 292,-360.71 292,-352"/>
+<polygon fill="black" stroke="black" points="295.5,-351.74 292,-341.74 288.5,-351.74 295.5,-351.74"/>
+</g>
+<!-- EndEvent_0\njknfrz_1CZ\n_Var2 -->
+<g id="node10" class="node">
+<title>EndEvent_0\njknfrz_1CZ\n_Var2</title>
+<ellipse fill="lightgrey" stroke="black" cx="292" cy="-28.6" rx="28.7" ry="28.7"/>
+<text text-anchor="middle" x="292" y="-24.9" font-family="Times,serif" font-size="14.00">Ende</text>
+</g>
+<!-- Task_1f461\n0t&#45;&gt;EndEvent_0\njknfrz_1CZ\n_Var2 -->
+<g id="edge7" class="edge">
+<title>Task_1f461\n0t&#45;&gt;EndEvent_0\njknfrz_1CZ\n_Var2</title>
+<path fill="none" stroke="black" d="M292,-93.28C292,-85.18 292,-76.08 292,-67.34"/>
+<polygon fill="black" stroke="black" points="295.5,-67.33 292,-57.33 288.5,-67.33 295.5,-67.33"/>
+</g>
+<!-- Task_1yrlo\nff&#45;&gt;Task_1a7ar\nu6 -->
+<g id="edge8" class="edge">
+<title>Task_1yrlo\nff&#45;&gt;Task_1a7ar\nu6</title>
+<path fill="none" stroke="black" d="M292,-588.54C292,-580.08 292,-570.87 292,-561.99"/>
+<polygon fill="black" stroke="black" points="295.5,-561.79 292,-551.79 288.5,-561.79 295.5,-561.79"/>
+</g>
+<!-- Task_026p0\nwh -->
+<g id="node12" class="node">
+<title>Task_026p0\nwh</title>
+<polygon fill="lightgrey" stroke="black" points="33.5,-798.69 33.5,-866.69 550.5,-866.69 550.5,-798.69 33.5,-798.69"/>
+<text text-anchor="middle" x="75" y="-836.49" font-family="Times,serif" font-size="14.00">Task_026p0</text>
+<text text-anchor="middle" x="75" y="-821.49" font-family="Times,serif" font-size="14.00">wh</text>
+<polyline fill="none" stroke="black" points="116.5,-798.69 116.5,-866.69 "/>
+<text text-anchor="middle" x="158.5" y="-851.49" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="158.5" y="-836.49" font-family="Times,serif" font-size="14.00">raft:1CZ__</text>
+<text text-anchor="middle" x="158.5" y="-821.49" font-family="Times,serif" font-size="14.00">Lane_0yuyn</text>
+<text text-anchor="middle" x="158.5" y="-806.49" font-family="Times,serif" font-size="14.00">ze</text>
+<polyline fill="none" stroke="black" points="200.5,-798.69 200.5,-866.69 "/>
+<text text-anchor="middle" x="375.5" y="-828.99" font-family="Times,serif" font-size="14.00">Artikel_zählen_und_Ergebnisse_ins_mobile_Gerät_eingeben</text>
+</g>
+<!-- Task_14hq1\nzm&#45;&gt;Task_026p0\nwh -->
+<g id="edge9" class="edge">
+<title>Task_14hq1\nzm&#45;&gt;Task_026p0\nwh</title>
+<path fill="none" stroke="black" d="M292,-903.6C292,-895.41 292,-886.11 292,-877.02"/>
+<polygon fill="black" stroke="black" points="295.5,-876.92 292,-866.92 288.5,-876.92 295.5,-876.92"/>
+</g>
+<!-- Task_1ycbr\n0x&#45;&gt;Task_1lqmd\nkl -->
+<g id="edge10" class="edge">
+<title>Task_1ycbr\n0x&#45;&gt;Task_1lqmd\nkl</title>
+<path fill="none" stroke="black" d="M292,-288.6C292,-280.41 292,-271.11 292,-262.02"/>
+<polygon fill="black" stroke="black" points="295.5,-261.92 292,-251.92 288.5,-261.92 295.5,-261.92"/>
+</g>
+<!-- Task_026p0\nwh&#45;&gt;Task_18t8m\n2r -->
+<g id="edge11" class="edge">
+<title>Task_026p0\nwh&#45;&gt;Task_18t8m\n2r</title>
+<path fill="none" stroke="black" d="M292,-798.54C292,-790.08 292,-780.87 292,-771.99"/>
+<polygon fill="black" stroke="black" points="295.5,-771.79 292,-761.79 288.5,-771.79 295.5,-771.79"/>
+</g>
+</g>
+</svg>

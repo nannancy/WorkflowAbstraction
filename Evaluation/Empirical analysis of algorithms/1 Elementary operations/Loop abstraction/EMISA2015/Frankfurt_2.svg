@@ -1,0 +1,225 @@
+<svg width="600px" height="988px"
+ viewBox="0.00 0.00 726.00 1196.27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 1192.27)">
+<title>Frankfurt_2</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-1192.27 722,-1192.27 722,4 -4,4"/>
+<!-- Gateway_0h\ni91is -->
+<g id="node1" class="node">
+<title>Gateway_0h\ni91is</title>
+<polygon fill="lightgrey" stroke="black" points="356,-337.39 249.26,-319.39 356,-301.39 462.74,-319.39 356,-337.39"/>
+<text text-anchor="middle" x="356" y="-315.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- Activity_0\n5r5kw1 -->
+<g id="node3" class="node">
+<title>Activity_0\n5r5kw1</title>
+<polygon fill="lightgrey" stroke="black" points="4,-196.89 4,-264.89 350,-264.89 350,-196.89 4,-196.89"/>
+<text text-anchor="middle" x="41" y="-234.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="41" y="-219.69" font-family="Times,serif" font-size="14.00">5r5kw1</text>
+<polyline fill="none" stroke="black" points="78,-196.89 78,-264.89 "/>
+<text text-anchor="middle" x="118.5" y="-249.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="118.5" y="-234.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="118.5" y="-219.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="118.5" y="-204.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="159,-196.89 159,-264.89 "/>
+<text text-anchor="middle" x="254.5" y="-227.19" font-family="Times,serif" font-size="14.00">task_Send_letter_of_acceptance</text>
+</g>
+<!-- Gateway_0h\ni91is&#45;&gt;Activity_0\n5r5kw1 -->
+<g id="edge2" class="edge">
+<title>Gateway_0h\ni91is&#45;&gt;Activity_0\n5r5kw1</title>
+<path fill="none" stroke="black" d="M329.59,-305.63C309.67,-296 281.26,-282.28 254.35,-269.27"/>
+<polygon fill="black" stroke="black" points="255.82,-266.09 245.29,-264.89 252.78,-272.4 255.82,-266.09"/>
+</g>
+<!-- Activity_0\n9ztofn -->
+<g id="node5" class="node">
+<title>Activity_0\n9ztofn</title>
+<polygon fill="lightgrey" stroke="black" points="368,-196.89 368,-264.89 702,-264.89 702,-196.89 368,-196.89"/>
+<text text-anchor="middle" x="405" y="-234.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="405" y="-219.69" font-family="Times,serif" font-size="14.00">9ztofn</text>
+<polyline fill="none" stroke="black" points="442,-196.89 442,-264.89 "/>
+<text text-anchor="middle" x="482.5" y="-249.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="482.5" y="-234.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="482.5" y="-219.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="482.5" y="-204.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="523,-196.89 523,-264.89 "/>
+<text text-anchor="middle" x="612.5" y="-227.19" font-family="Times,serif" font-size="14.00">task_Send_letter_of_rejection</text>
+</g>
+<!-- Gateway_0h\ni91is&#45;&gt;Activity_0\n9ztofn -->
+<g id="edge1" class="edge">
+<title>Gateway_0h\ni91is&#45;&gt;Activity_0\n9ztofn</title>
+<path fill="none" stroke="black" d="M382.41,-305.63C402.33,-296 430.74,-282.28 457.65,-269.27"/>
+<polygon fill="black" stroke="black" points="459.22,-272.4 466.71,-264.89 456.18,-266.09 459.22,-272.4"/>
+</g>
+<!-- Gateway_0h\nl23i2 -->
+<g id="node2" class="node">
+<title>Gateway_0h\nl23i2</title>
+<polygon fill="lightgrey" stroke="black" points="356,-514.39 249.26,-496.39 356,-478.39 462.74,-496.39 356,-514.39"/>
+<text text-anchor="middle" x="356" y="-492.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- Activity_0\nluiffv -->
+<g id="node6" class="node">
+<title>Activity_0\nluiffv</title>
+<polygon fill="lightgrey" stroke="black" points="102,-373.89 102,-441.89 610,-441.89 610,-373.89 102,-373.89"/>
+<text text-anchor="middle" x="139" y="-411.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="139" y="-396.69" font-family="Times,serif" font-size="14.00">luiffv</text>
+<polyline fill="none" stroke="black" points="176,-373.89 176,-441.89 "/>
+<text text-anchor="middle" x="216.5" y="-426.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="216.5" y="-411.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="216.5" y="-396.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="216.5" y="-381.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="257,-373.89 257,-441.89 "/>
+<text text-anchor="middle" x="433.5" y="-404.19" font-family="Times,serif" font-size="14.00">task_Rank_students_according_to_GPA_and_the_test_results</text>
+</g>
+<!-- Gateway_0h\nl23i2&#45;&gt;Activity_0\nluiffv -->
+<g id="edge3" class="edge">
+<title>Gateway_0h\nl23i2&#45;&gt;Activity_0\nluiffv</title>
+<path fill="none" stroke="black" d="M356,-478.3C356,-470.71 356,-461.39 356,-452.08"/>
+<polygon fill="black" stroke="black" points="359.5,-452.06 356,-442.06 352.5,-452.06 359.5,-452.06"/>
+</g>
+<!-- Gateway_1d\n7buy5 -->
+<g id="node4" class="node">
+<title>Gateway_1d\n7buy5</title>
+<polygon fill="lightgrey" stroke="black" points="356,-160.39 249.26,-142.39 356,-124.39 462.74,-142.39 356,-160.39"/>
+<text text-anchor="middle" x="356" y="-138.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- Activity_0\n5r5kw1&#45;&gt;Gateway_1d\n7buy5 -->
+<g id="edge4" class="edge">
+<title>Activity_0\n5r5kw1&#45;&gt;Gateway_1d\n7buy5</title>
+<path fill="none" stroke="black" d="M245.44,-196.82C271.06,-184.44 299.12,-170.88 320.56,-160.52"/>
+<polygon fill="black" stroke="black" points="322.13,-163.64 329.62,-156.14 319.09,-157.34 322.13,-163.64"/>
+</g>
+<!-- Event_1cr3\nfth -->
+<g id="node11" class="node">
+<title>Event_1cr3\nfth</title>
+<ellipse fill="lightgrey" stroke="black" cx="356" cy="-44.2" rx="44.39" ry="44.39"/>
+<text text-anchor="middle" x="356" y="-40.5" font-family="Times,serif" font-size="14.00">endEvent</text>
+</g>
+<!-- Gateway_1d\n7buy5&#45;&gt;Event_1cr3\nfth -->
+<g id="edge5" class="edge">
+<title>Gateway_1d\n7buy5&#45;&gt;Event_1cr3\nfth</title>
+<path fill="none" stroke="black" d="M356,-124.19C356,-116.89 356,-107.94 356,-98.72"/>
+<polygon fill="black" stroke="black" points="359.5,-98.68 356,-88.68 352.5,-98.68 359.5,-98.68"/>
+</g>
+<!-- Activity_0\n9ztofn&#45;&gt;Gateway_1d\n7buy5 -->
+<g id="edge6" class="edge">
+<title>Activity_0\n9ztofn&#45;&gt;Gateway_1d\n7buy5</title>
+<path fill="none" stroke="black" d="M466.56,-196.82C440.94,-184.44 412.88,-170.88 391.44,-160.52"/>
+<polygon fill="black" stroke="black" points="392.91,-157.34 382.38,-156.14 389.87,-163.64 392.91,-157.34"/>
+</g>
+<!-- Activity_0\nluiffv&#45;&gt;Gateway_0h\ni91is -->
+<g id="edge7" class="edge">
+<title>Activity_0\nluiffv&#45;&gt;Gateway_0h\ni91is</title>
+<path fill="none" stroke="black" d="M356,-373.7C356,-365.08 356,-355.91 356,-347.64"/>
+<polygon fill="black" stroke="black" points="359.5,-347.42 356,-337.42 352.5,-347.42 359.5,-347.42"/>
+</g>
+<!-- Activity_0\nspz3a5 -->
+<g id="node7" class="node">
+<title>Activity_0\nspz3a5</title>
+<polygon fill="lightgrey" stroke="black" points="0,-550.89 0,-618.89 344,-618.89 344,-550.89 0,-550.89"/>
+<text text-anchor="middle" x="37" y="-588.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="37" y="-573.69" font-family="Times,serif" font-size="14.00">spz3a5</text>
+<polyline fill="none" stroke="black" points="74,-550.89 74,-618.89 "/>
+<text text-anchor="middle" x="114.5" y="-603.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="114.5" y="-588.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="114.5" y="-573.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="114.5" y="-558.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="155,-550.89 155,-618.89 "/>
+<text text-anchor="middle" x="249.5" y="-581.19" font-family="Times,serif" font-size="14.00">task_Invite_to_an_aptitude_test</text>
+</g>
+<!-- Activity_0\nspz3a5&#45;&gt;Gateway_0h\nl23i2 -->
+<g id="edge8" class="edge">
+<title>Activity_0\nspz3a5&#45;&gt;Gateway_0h\nl23i2</title>
+<path fill="none" stroke="black" d="M242.35,-550.82C268.86,-538.36 297.92,-524.7 320.01,-514.31"/>
+<polygon fill="black" stroke="black" points="321.77,-517.35 329.34,-509.93 318.8,-511.01 321.77,-517.35"/>
+</g>
+<!-- Activity_1\nxorc6r -->
+<g id="node8" class="node">
+<title>Activity_1\nxorc6r</title>
+<polygon fill="lightgrey" stroke="black" points="205.5,-832.89 205.5,-900.89 506.5,-900.89 506.5,-832.89 205.5,-832.89"/>
+<text text-anchor="middle" x="242.5" y="-870.69" font-family="Times,serif" font-size="14.00">Activity_1</text>
+<text text-anchor="middle" x="242.5" y="-855.69" font-family="Times,serif" font-size="14.00">xorc6r</text>
+<polyline fill="none" stroke="black" points="279.5,-832.89 279.5,-900.89 "/>
+<text text-anchor="middle" x="320" y="-885.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="320" y="-870.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="320" y="-855.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="320" y="-840.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="360.5,-832.89 360.5,-900.89 "/>
+<text text-anchor="middle" x="433.5" y="-863.19" font-family="Times,serif" font-size="14.00">task_Check_documents</text>
+</g>
+<!-- Activity_0\nlklwmd -->
+<g id="node12" class="node">
+<title>Activity_0\nlklwmd</title>
+<polygon fill="lightgrey" stroke="black" points="232.5,-727.89 232.5,-795.89 479.5,-795.89 479.5,-727.89 232.5,-727.89"/>
+<text text-anchor="middle" x="269.5" y="-765.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="269.5" y="-750.69" font-family="Times,serif" font-size="14.00">lklwmd</text>
+<polyline fill="none" stroke="black" points="306.5,-727.89 306.5,-795.89 "/>
+<text text-anchor="middle" x="347" y="-780.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="347" y="-765.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="347" y="-750.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="347" y="-735.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="387.5,-727.89 387.5,-795.89 "/>
+<text text-anchor="middle" x="433.5" y="-758.19" font-family="Times,serif" font-size="14.00">task_Evaluate</text>
+</g>
+<!-- Activity_1\nxorc6r&#45;&gt;Activity_0\nlklwmd -->
+<g id="edge9" class="edge">
+<title>Activity_1\nxorc6r&#45;&gt;Activity_0\nlklwmd</title>
+<path fill="none" stroke="black" d="M356,-832.74C356,-824.28 356,-815.07 356,-806.19"/>
+<polygon fill="black" stroke="black" points="359.5,-805.99 356,-795.99 352.5,-805.99 359.5,-805.99"/>
+</g>
+<!-- Gateway_13\n7oyxp -->
+<g id="node9" class="node">
+<title>Gateway_13\n7oyxp</title>
+<polygon fill="lightgrey" stroke="black" points="356,-691.39 249.26,-673.39 356,-655.39 462.74,-673.39 356,-691.39"/>
+<text text-anchor="middle" x="356" y="-669.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
+</g>
+<!-- Gateway_13\n7oyxp&#45;&gt;Activity_0\nspz3a5 -->
+<g id="edge11" class="edge">
+<title>Gateway_13\n7oyxp&#45;&gt;Activity_0\nspz3a5</title>
+<path fill="none" stroke="black" d="M329.24,-659.81C308.83,-650.22 279.58,-636.47 251.83,-623.42"/>
+<polygon fill="black" stroke="black" points="253.03,-620.12 242.49,-619.03 250.05,-626.45 253.03,-620.12"/>
+</g>
+<!-- Activity_0\ny71ekd -->
+<g id="node13" class="node">
+<title>Activity_0\ny71ekd</title>
+<polygon fill="lightgrey" stroke="black" points="362,-550.89 362,-618.89 718,-618.89 718,-550.89 362,-550.89"/>
+<text text-anchor="middle" x="399" y="-588.69" font-family="Times,serif" font-size="14.00">Activity_0</text>
+<text text-anchor="middle" x="399" y="-573.69" font-family="Times,serif" font-size="14.00">y71ekd</text>
+<polyline fill="none" stroke="black" points="436,-550.89 436,-618.89 "/>
+<text text-anchor="middle" x="476.5" y="-603.69" font-family="Times,serif" font-size="14.00">University</text>
+<text text-anchor="middle" x="476.5" y="-588.69" font-family="Times,serif" font-size="14.00">_of_Cologn</text>
+<text text-anchor="middle" x="476.5" y="-573.69" font-family="Times,serif" font-size="14.00">e:Lane_1bg</text>
+<text text-anchor="middle" x="476.5" y="-558.69" font-family="Times,serif" font-size="14.00">r85p</text>
+<polyline fill="none" stroke="black" points="517,-550.89 517,-618.89 "/>
+<text text-anchor="middle" x="617.5" y="-581.19" font-family="Times,serif" font-size="14.00">task_Keep_in_the_applicant_pool</text>
+</g>
+<!-- Gateway_13\n7oyxp&#45;&gt;Activity_0\ny71ekd -->
+<g id="edge10" class="edge">
+<title>Gateway_13\n7oyxp&#45;&gt;Activity_0\ny71ekd</title>
+<path fill="none" stroke="black" d="M382.76,-659.81C403.17,-650.22 432.42,-636.47 460.17,-623.42"/>
+<polygon fill="black" stroke="black" points="461.95,-626.45 469.51,-619.03 458.97,-620.12 461.95,-626.45"/>
+</g>
+<!-- Event_192u\nahg -->
+<g id="node10" class="node">
+<title>Event_192u\nahg</title>
+<ellipse fill="lightgrey" stroke="black" cx="356" cy="-1062.83" rx="125.38" ry="125.38"/>
+<text text-anchor="middle" x="356" y="-1059.13" font-family="Times,serif" font-size="14.00">startEvent_Documents_received</text>
+</g>
+<!-- Event_192u\nahg&#45;&gt;Activity_1\nxorc6r -->
+<g id="edge12" class="edge">
+<title>Event_192u\nahg&#45;&gt;Activity_1\nxorc6r</title>
+<path fill="none" stroke="black" d="M356,-937.36C356,-928.23 356,-919.46 356,-911.4"/>
+<polygon fill="black" stroke="black" points="359.5,-911.25 356,-901.25 352.5,-911.25 359.5,-911.25"/>
+</g>
+<!-- Activity_0\nlklwmd&#45;&gt;Gateway_13\n7oyxp -->
+<g id="edge13" class="edge">
+<title>Activity_0\nlklwmd&#45;&gt;Gateway_13\n7oyxp</title>
+<path fill="none" stroke="black" d="M356,-727.7C356,-719.08 356,-709.91 356,-701.64"/>
+<polygon fill="black" stroke="black" points="359.5,-701.42 356,-691.42 352.5,-701.42 359.5,-701.42"/>
+</g>
+<!-- Activity_0\ny71ekd&#45;&gt;Gateway_0h\nl23i2 -->
+<g id="edge14" class="edge">
+<title>Activity_0\ny71ekd&#45;&gt;Gateway_0h\nl23i2</title>
+<path fill="none" stroke="black" d="M469.65,-550.82C443.14,-538.36 414.08,-524.7 391.99,-514.31"/>
+<polygon fill="black" stroke="black" points="393.2,-511.01 382.66,-509.93 390.23,-517.35 393.2,-511.01"/>
+</g>
+</g>
+</svg>

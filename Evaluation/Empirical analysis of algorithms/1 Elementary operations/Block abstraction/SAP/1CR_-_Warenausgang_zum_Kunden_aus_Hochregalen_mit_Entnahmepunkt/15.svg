@@ -1,0 +1,197 @@
+<svg width="1456px" height="500px"
+ viewBox="0.00 0.00 1561.00 536.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 532)">
+<title>15</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-532 1557,-532 1557,4 -4,4"/>
+<!-- UserTask_0\ndd6v9y_1CR -->
+<g id="node1" class="node">
+<title>UserTask_0\ndd6v9y_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="896,-177.5 896,-245.5 1553,-245.5 1553,-177.5 896,-177.5"/>
+<text text-anchor="middle" x="940.5" y="-215.3" font-family="Times,serif" font-size="14.00">UserTask_0</text>
+<text text-anchor="middle" x="940.5" y="-200.3" font-family="Times,serif" font-size="14.00">dd6v9y_1CR</text>
+<polyline fill="none" stroke="black" points="985,-177.5 985,-245.5 "/>
+<text text-anchor="middle" x="1028.5" y="-230.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="1028.5" y="-215.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="1028.5" y="-200.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="1028.5" y="-185.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="1072,-177.5 1072,-245.5 "/>
+<text text-anchor="middle" x="1312.5" y="-207.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_vom_Entnahmepunkt_zum_Verpackungszentrum_bewegen</text>
+</g>
+<!-- ExclusiveG\nateway_0ku\na0en_1CR -->
+<g id="node2" class="node">
+<title>ExclusiveG\nateway_0ku\na0en_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="931.5,-36 766.1,-18 931.5,0 1096.9,-18 931.5,-36"/>
+<text text-anchor="middle" x="931.5" y="-14.3" font-family="Times,serif" font-size="14.00">Komplexes_Gateway_/_JOIN</text>
+</g>
+<!-- UserTask_0\ndd6v9y_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR -->
+<g id="edge1" class="edge">
+<title>UserTask_0\ndd6v9y_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR</title>
+<path fill="none" stroke="black" d="M1229.87,-177.39C1232.92,-146.08 1231.86,-99.85 1205.5,-72 1182.37,-47.57 1103.71,-34.05 1036.56,-26.79"/>
+<polygon fill="black" stroke="black" points="1036.63,-23.28 1026.32,-25.72 1035.91,-30.24 1036.63,-23.28"/>
+</g>
+<!-- ExclusiveG\nateway_1p2\nut18_1CR -->
+<g id="node3" class="node">
+<title>ExclusiveG\nateway_1p2\nut18_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="867.5,-528 695.74,-510 867.5,-492 1039.26,-510 867.5,-528"/>
+<text text-anchor="middle" x="867.5" y="-506.3" font-family="Times,serif" font-size="14.00">Komplexes_Gateway_/_SPLIT</text>
+</g>
+<!-- Task_12z63\nem_1CR -->
+<g id="node7" class="node">
+<title>Task_12z63\nem_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="332.5,-387.5 332.5,-455.5 830.5,-455.5 830.5,-387.5 332.5,-387.5"/>
+<text text-anchor="middle" x="374" y="-425.3" font-family="Times,serif" font-size="14.00">Task_12z63</text>
+<text text-anchor="middle" x="374" y="-410.3" font-family="Times,serif" font-size="14.00">em_1CR</text>
+<polyline fill="none" stroke="black" points="415.5,-387.5 415.5,-455.5 "/>
+<text text-anchor="middle" x="459" y="-440.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="459" y="-425.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="459" y="-410.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="459" y="-395.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="502.5,-387.5 502.5,-455.5 "/>
+<text text-anchor="middle" x="666.5" y="-417.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zum_Entnahmepunkt_bewegen</text>
+</g>
+<!-- ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;Task_12z63\nem_1CR -->
+<g id="edge4" class="edge">
+<title>ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;Task_12z63\nem_1CR</title>
+<path fill="none" stroke="black" d="M825.61,-496.33C792.65,-486.36 745.02,-471.96 700.57,-458.51"/>
+<polygon fill="black" stroke="black" points="701.43,-455.12 690.85,-455.57 699.4,-461.82 701.43,-455.12"/>
+</g>
+<!-- Task_17we3\n06_1CR -->
+<g id="node8" class="node">
+<title>Task_17we3\n06_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="667,-72.5 667,-140.5 1196,-140.5 1196,-72.5 667,-72.5"/>
+<text text-anchor="middle" x="710" y="-110.3" font-family="Times,serif" font-size="14.00">Task_17we3</text>
+<text text-anchor="middle" x="710" y="-95.3" font-family="Times,serif" font-size="14.00">06_1CR</text>
+<polyline fill="none" stroke="black" points="753,-72.5 753,-140.5 "/>
+<text text-anchor="middle" x="796.5" y="-125.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="796.5" y="-110.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="796.5" y="-95.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="796.5" y="-80.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="840,-72.5 840,-140.5 "/>
+<text text-anchor="middle" x="1018" y="-102.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zum_Verpackungszentrum_bewegen</text>
+</g>
+<!-- ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;Task_17we3\n06_1CR -->
+<g id="edge3" class="edge">
+<title>ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;Task_17we3\n06_1CR</title>
+<path fill="none" stroke="black" d="M865.47,-491.86C860.18,-441.82 848.84,-292.24 886.5,-177 889.61,-167.47 894.37,-157.97 899.65,-149.2"/>
+<polygon fill="black" stroke="black" points="902.64,-151.01 905.05,-140.69 896.74,-147.26 902.64,-151.01"/>
+</g>
+<!-- UserTask_1\nk6ffgy_1CR -->
+<g id="node10" class="node">
+<title>UserTask_1\nk6ffgy_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="924.5,-387.5 924.5,-455.5 1420.5,-455.5 1420.5,-387.5 924.5,-387.5"/>
+<text text-anchor="middle" x="966.5" y="-425.3" font-family="Times,serif" font-size="14.00">UserTask_1</text>
+<text text-anchor="middle" x="966.5" y="-410.3" font-family="Times,serif" font-size="14.00">k6ffgy_1CR</text>
+<polyline fill="none" stroke="black" points="1008.5,-387.5 1008.5,-455.5 "/>
+<text text-anchor="middle" x="1052" y="-440.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="1052" y="-425.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="1052" y="-410.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="1052" y="-395.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="1095.5,-387.5 1095.5,-455.5 "/>
+<text text-anchor="middle" x="1258" y="-417.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zum_Übergabepunkt_bewegen</text>
+</g>
+<!-- ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;UserTask_1\nk6ffgy_1CR -->
+<g id="edge2" class="edge">
+<title>ExclusiveG\nateway_1p2\nut18_1CR&#45;&gt;UserTask_1\nk6ffgy_1CR</title>
+<path fill="none" stroke="black" d="M911.52,-496.51C946.87,-486.49 998.33,-471.9 1046.23,-458.31"/>
+<polygon fill="black" stroke="black" points="1047.4,-461.62 1056.07,-455.52 1045.49,-454.88 1047.4,-461.62"/>
+</g>
+<!-- Task_16f28\nr0_1CR -->
+<g id="node4" class="node">
+<title>Task_16f28\nr0_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="0,-72.5 0,-140.5 649,-140.5 649,-72.5 0,-72.5"/>
+<text text-anchor="middle" x="40.5" y="-110.3" font-family="Times,serif" font-size="14.00">Task_16f28</text>
+<text text-anchor="middle" x="40.5" y="-95.3" font-family="Times,serif" font-size="14.00">r0_1CR</text>
+<polyline fill="none" stroke="black" points="81,-72.5 81,-140.5 "/>
+<text text-anchor="middle" x="124.5" y="-125.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="124.5" y="-110.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="124.5" y="-95.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="124.5" y="-80.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="168,-72.5 168,-140.5 "/>
+<text text-anchor="middle" x="408.5" y="-102.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_vom_Entnahmepunkt_zum_Verpackungszentrum_bewegen</text>
+</g>
+<!-- Task_16f28\nr0_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR -->
+<g id="edge5" class="edge">
+<title>Task_16f28\nr0_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR</title>
+<path fill="none" stroke="black" d="M556.15,-72.49C661.21,-57.52 778.45,-40.81 853.5,-30.11"/>
+<polygon fill="black" stroke="black" points="854.4,-33.52 863.81,-28.65 853.41,-26.59 854.4,-33.52"/>
+</g>
+<!-- Task_0h6n3\nhy_1CR -->
+<g id="node5" class="node">
+<title>Task_0h6n3\nhy_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="155,-177.5 155,-245.5 724,-245.5 724,-177.5 155,-177.5"/>
+<text text-anchor="middle" x="196.5" y="-215.3" font-family="Times,serif" font-size="14.00">Task_0h6n3</text>
+<text text-anchor="middle" x="196.5" y="-200.3" font-family="Times,serif" font-size="14.00">hy_1CR</text>
+<polyline fill="none" stroke="black" points="238,-177.5 238,-245.5 "/>
+<text text-anchor="middle" x="281.5" y="-230.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="281.5" y="-215.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="281.5" y="-200.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="281.5" y="-185.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="325,-177.5 325,-245.5 "/>
+<text text-anchor="middle" x="524.5" y="-207.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zu_Hochregalen_(höhere_Ebenen)_bewegen</text>
+</g>
+<!-- Task_0h6n3\nhy_1CR&#45;&gt;Task_16f28\nr0_1CR -->
+<g id="edge6" class="edge">
+<title>Task_0h6n3\nhy_1CR&#45;&gt;Task_16f28\nr0_1CR</title>
+<path fill="none" stroke="black" d="M402.48,-177.34C391.81,-167.79 380.06,-157.26 368.99,-147.34"/>
+<polygon fill="black" stroke="black" points="371.23,-144.66 361.45,-140.59 366.56,-149.87 371.23,-144.66"/>
+</g>
+<!-- Task_0ngc6\njl_1CR -->
+<g id="node6" class="node">
+<title>Task_0ngc6\njl_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="363.5,-282.5 363.5,-350.5 763.5,-350.5 763.5,-282.5 363.5,-282.5"/>
+<text text-anchor="middle" x="405" y="-320.3" font-family="Times,serif" font-size="14.00">Task_0ngc6</text>
+<text text-anchor="middle" x="405" y="-305.3" font-family="Times,serif" font-size="14.00">jl_1CR</text>
+<polyline fill="none" stroke="black" points="446.5,-282.5 446.5,-350.5 "/>
+<text text-anchor="middle" x="490" y="-335.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="490" y="-320.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="490" y="-305.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="490" y="-290.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="533.5,-282.5 533.5,-350.5 "/>
+<text text-anchor="middle" x="648.5" y="-312.8" font-family="Times,serif" font-size="14.00">Ware_am_Entnahmepunkt_entnehmen</text>
+</g>
+<!-- Task_0ngc6\njl_1CR&#45;&gt;Task_0h6n3\nhy_1CR -->
+<g id="edge7" class="edge">
+<title>Task_0ngc6\njl_1CR&#45;&gt;Task_0h6n3\nhy_1CR</title>
+<path fill="none" stroke="black" d="M523.58,-282.34C511.97,-272.69 499.16,-262.06 487.12,-252.06"/>
+<polygon fill="black" stroke="black" points="489.27,-249.29 479.34,-245.59 484.8,-254.68 489.27,-249.29"/>
+</g>
+<!-- Task_12z63\nem_1CR&#45;&gt;Task_0ngc6\njl_1CR -->
+<g id="edge8" class="edge">
+<title>Task_12z63\nem_1CR&#45;&gt;Task_0ngc6\njl_1CR</title>
+<path fill="none" stroke="black" d="M575.71,-387.34C574.21,-378.8 572.58,-369.48 571.02,-360.51"/>
+<polygon fill="black" stroke="black" points="574.45,-359.84 569.28,-350.59 567.56,-361.05 574.45,-359.84"/>
+</g>
+<!-- Task_17we3\n06_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR -->
+<g id="edge9" class="edge">
+<title>Task_17we3\n06_1CR&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CR</title>
+<path fill="none" stroke="black" d="M931.5,-72.3C931.5,-63.69 931.5,-54.51 931.5,-46.25"/>
+<polygon fill="black" stroke="black" points="935,-46.03 931.5,-36.03 928,-46.03 935,-46.03"/>
+</g>
+<!-- UserTask_0\nar4lty_1CR -->
+<g id="node9" class="node">
+<title>UserTask_0\nar4lty_1CR</title>
+<polygon fill="lightgrey" stroke="black" points="919,-282.5 919,-350.5 1484,-350.5 1484,-282.5 919,-282.5"/>
+<text text-anchor="middle" x="960" y="-320.3" font-family="Times,serif" font-size="14.00">UserTask_0</text>
+<text text-anchor="middle" x="960" y="-305.3" font-family="Times,serif" font-size="14.00">ar4lty_1CR</text>
+<polyline fill="none" stroke="black" points="1001,-282.5 1001,-350.5 "/>
+<text text-anchor="middle" x="1044.5" y="-335.3" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
+<text text-anchor="middle" x="1044.5" y="-320.3" font-family="Times,serif" font-size="14.00">raft:1CR__</text>
+<text text-anchor="middle" x="1044.5" y="-305.3" font-family="Times,serif" font-size="14.00">Lane_1v76w</text>
+<text text-anchor="middle" x="1044.5" y="-290.3" font-family="Times,serif" font-size="14.00">t5</text>
+<polyline fill="none" stroke="black" points="1088,-282.5 1088,-350.5 "/>
+<text text-anchor="middle" x="1286" y="-312.8" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zu_Hochregalen_(untere_Ebenen)_bewegen</text>
+</g>
+<!-- UserTask_0\nar4lty_1CR&#45;&gt;UserTask_0\ndd6v9y_1CR -->
+<g id="edge10" class="edge">
+<title>UserTask_0\nar4lty_1CR&#45;&gt;UserTask_0\ndd6v9y_1CR</title>
+<path fill="none" stroke="black" d="M1208.9,-282.34C1210.81,-273.8 1212.89,-264.48 1214.9,-255.51"/>
+<polygon fill="black" stroke="black" points="1218.35,-256.12 1217.11,-245.59 1211.51,-254.59 1218.35,-256.12"/>
+</g>
+<!-- UserTask_1\nk6ffgy_1CR&#45;&gt;UserTask_0\nar4lty_1CR -->
+<g id="edge11" class="edge">
+<title>UserTask_1\nk6ffgy_1CR&#45;&gt;UserTask_0\nar4lty_1CR</title>
+<path fill="none" stroke="black" d="M1181.84,-387.34C1184.24,-378.8 1186.87,-369.48 1189.39,-360.51"/>
+<polygon fill="black" stroke="black" points="1192.84,-361.17 1192.18,-350.59 1186.1,-359.27 1192.84,-361.17"/>
+</g>
+</g>
+</svg>
