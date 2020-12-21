@@ -10,3 +10,8 @@ https://github.com/nidi3/graphviz-java.git
 
 #Open issues:
 - Similarity measures for sentences based on Word similarity given by Word2Vec model (Word2Vec model has been migrated from the python project to java)
+
+# Running codes
+Under the folder everII/src/main/java/Main you can find the following two runnable java class:
+EmpiricalExperiment.java
+TransferProcess.java
