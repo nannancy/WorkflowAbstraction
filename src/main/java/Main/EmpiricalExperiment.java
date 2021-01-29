@@ -68,9 +68,15 @@ public class EmpiricalExperiment {
 				 case  4:deadendOperator.onOntology(SVGPath);break;
 				 }
 			}
-			 OntologyHelper.sourceOntologyHelper = null;
+			OntologyHelper.sourceOntologyHelper.blockFragments = BlockOperator.blocks;
+			OntologyHelper.sourceOntologyHelper.sequentialFragments = sequenceOperator.sequences;
+			OntologyHelper.sourceOntologyHelper.participantFragments = participantOperator.fragments;
+			OntologyHelper.sourceOntologyHelper.deadendFragments = deadendOperator.deadends;
+			OntologyHelper.sourceOntologyHelper.loopFragments = loopOperator.loops;
+
+			OntologyHelper.sourceOntologyHelper.writeAbstractionIntoOntology();
+			OntologyHelper.sourceOntologyHelper = null;
 		}
-/***10:10 Dec 12*/
 	
 		 
 	}

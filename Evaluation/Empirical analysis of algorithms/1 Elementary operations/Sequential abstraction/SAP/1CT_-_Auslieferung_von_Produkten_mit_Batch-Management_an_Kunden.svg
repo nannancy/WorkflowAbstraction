@@ -67,7 +67,7 @@
 <polygon fill="black" stroke="black" points="574,-819.9 570.5,-809.9 567,-819.9 574,-819.9"/>
 </g>
 <!-- EndEvent_0\nz2k271_1CT -->
-<g id="node14" class="node">
+<g id="node13" class="node">
 <title>EndEvent_0\nz2k271_1CT</title>
 <ellipse fill="lightgrey" stroke="black" cx="570.5" cy="-28.6" rx="28.7" ry="28.7"/>
 <text text-anchor="middle" x="570.5" y="-24.9" font-family="Times,serif" font-size="14.00">Ende</text>
@@ -85,7 +85,7 @@
 <text text-anchor="middle" x="570.5" y="-461.49" font-family="Times,serif" font-size="14.00">Paralleles_Gateway_/_JOIN</text>
 </g>
 <!-- Task_0kiuv\n35_1CT -->
-<g id="node15" class="node">
+<g id="node14" class="node">
 <title>Task_0kiuv\n35_1CT</title>
 <polygon fill="lightgrey" stroke="black" points="435.5,-342.69 435.5,-410.69 705.5,-410.69 705.5,-342.69 435.5,-342.69"/>
 <text text-anchor="middle" x="475.5" y="-380.49" font-family="Times,serif" font-size="14.00">Task_0kiuv</text>
@@ -149,13 +149,13 @@
 <path fill="none" stroke="black" d="M529.23,-1042.52C491.45,-1030.91 433.69,-1013.17 381.75,-997.21"/>
 <polygon fill="black" stroke="black" points="382.71,-993.85 372.12,-994.26 380.65,-1000.54 382.71,-993.85"/>
 </g>
-<!-- Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT -->
-<g id="node12" class="node">
-<title>Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT</title>
+<!-- Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT -->
+<g id="node16" class="node">
+<title>Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT</title>
 <polygon fill="none" stroke="black" stroke-dasharray="5,2" points="547,-918.69 547,-1001.69 1206,-1001.69 1206,-918.69 547,-918.69"/>
 <text text-anchor="middle" x="592.5" y="-978.99" font-family="Times,serif" font-size="14.00">Task_12z63</text>
 <text text-anchor="middle" x="592.5" y="-963.99" font-family="Times,serif" font-size="14.00">em_1CT_Tas</text>
-<text text-anchor="middle" x="592.5" y="-948.99" font-family="Times,serif" font-size="14.00">k_16f28r0_</text>
+<text text-anchor="middle" x="592.5" y="-948.99" font-family="Times,serif" font-size="14.00">k_17we306_</text>
 <text text-anchor="middle" x="592.5" y="-933.99" font-family="Times,serif" font-size="14.00">1CT</text>
 <polyline fill="none" stroke="black" stroke-dasharray="5,2" points="638,-918.69 638,-1001.69 "/>
 <text text-anchor="middle" x="681.5" y="-978.99" font-family="Times,serif" font-size="14.00">Lagerfachk</text>
@@ -169,9 +169,9 @@
 <text text-anchor="middle" x="965.5" y="-941.49" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_zu_Hochregalen_(untere_Ebenen)_bewegen</text>
 <text text-anchor="middle" x="965.5" y="-926.49" font-family="Times,serif" font-size="14.00">Paletten/Wareneinheiten_vom_Entnahmepunkt_zum_Verpackungszentrum_bewegen</text>
 </g>
-<!-- ExclusiveG\nateway_1p2\nut18_1CT&#45;&gt;Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT -->
+<!-- ExclusiveG\nateway_1p2\nut18_1CT&#45;&gt;Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT -->
 <g id="edge6" class="edge">
-<title>ExclusiveG\nateway_1p2\nut18_1CT&#45;&gt;Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT</title>
+<title>ExclusiveG\nateway_1p2\nut18_1CT&#45;&gt;Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT</title>
 <path fill="none" stroke="black" d="M611.77,-1042.52C643.75,-1032.69 690.06,-1018.47 735.03,-1004.65"/>
 <polygon fill="black" stroke="black" points="736.07,-1008 744.6,-1001.71 734.01,-1001.3 736.07,-1008"/>
 </g>
@@ -194,7 +194,7 @@
 <polygon fill="black" stroke="black" points="443.94,-573.19 433.36,-572.82 441.41,-579.71 443.94,-573.19"/>
 </g>
 <!-- Task_0d6a0\n3g_1CT -->
-<g id="node13" class="node">
+<g id="node12" class="node">
 <title>Task_0d6a0\n3g_1CT</title>
 <polygon fill="lightgrey" stroke="black" points="540,-519.69 540,-572.69 1007,-572.69 1007,-519.69 540,-519.69"/>
 <text text-anchor="middle" x="581.5" y="-549.99" font-family="Times,serif" font-size="14.00">Task_0d6a0</text>
@@ -256,26 +256,20 @@
 <path fill="none" stroke="black" d="M371.95,-926.19C422.23,-910.74 479.72,-893.08 519.85,-880.75"/>
 <polygon fill="black" stroke="black" points="520.88,-884.1 529.41,-877.82 518.83,-877.41 520.88,-884.1"/>
 </g>
-<!-- Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CT -->
-<g id="edge15" class="edge">
-<title>Task_12z63\nem_1CT_Tas\nk_16f28r0_\n1CT&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CT</title>
-<path fill="none" stroke="black" d="M744.51,-918.65C700.78,-905.22 654.72,-891.07 620.98,-880.7"/>
-<polygon fill="black" stroke="black" points="621.95,-877.34 611.37,-877.75 619.9,-884.03 621.95,-877.34"/>
-</g>
 <!-- Task_0d6a0\n3g_1CT&#45;&gt;ExclusiveG\nateway_1dt\n5qzc_1CT -->
-<g id="edge16" class="edge">
+<g id="edge15" class="edge">
 <title>Task_0d6a0\n3g_1CT&#45;&gt;ExclusiveG\nateway_1dt\n5qzc_1CT</title>
 <path fill="none" stroke="black" d="M707.87,-519.65C677.13,-507.69 641.34,-493.76 614.01,-483.13"/>
 <polygon fill="black" stroke="black" points="614.93,-479.73 604.34,-479.37 612.39,-486.25 614.93,-479.73"/>
 </g>
 <!-- Task_0kiuv\n35_1CT&#45;&gt;ExclusiveG\nateway_0kz\nv0w5_1CT -->
-<g id="edge17" class="edge">
+<g id="edge16" class="edge">
 <title>Task_0kiuv\n35_1CT&#45;&gt;ExclusiveG\nateway_0kz\nv0w5_1CT</title>
 <path fill="none" stroke="black" d="M570.5,-342.5C570.5,-333.89 570.5,-324.71 570.5,-316.44"/>
 <polygon fill="black" stroke="black" points="574,-316.22 570.5,-306.22 567,-316.22 574,-316.22"/>
 </g>
 <!-- Task_1x67d\nl4_1CT_Tas\nk_0chb19q -->
-<g id="node16" class="node">
+<g id="node15" class="node">
 <title>Task_1x67d\nl4_1CT_Tas\nk_0chb19q</title>
 <polygon fill="none" stroke="black" stroke-dasharray="5,2" points="316,-1110.69 316,-1313.69 825,-1313.69 825,-1110.69 316,-1110.69"/>
 <text text-anchor="middle" x="358" y="-1223.49" font-family="Times,serif" font-size="14.00">Task_1x67d</text>
@@ -308,10 +302,16 @@
 <text text-anchor="middle" x="659" y="-1140.99" font-family="Times,serif" font-size="14.00">Lageraufträge_anzeigen</text>
 </g>
 <!-- Task_1x67d\nl4_1CT_Tas\nk_0chb19q&#45;&gt;ExclusiveG\nateway_1p2\nut18_1CT -->
-<g id="edge18" class="edge">
+<g id="edge17" class="edge">
 <title>Task_1x67d\nl4_1CT_Tas\nk_0chb19q&#45;&gt;ExclusiveG\nateway_1p2\nut18_1CT</title>
 <path fill="none" stroke="black" d="M570.5,-1110.62C570.5,-1101.16 570.5,-1092.22 570.5,-1084.46"/>
 <polygon fill="black" stroke="black" points="574,-1084.34 570.5,-1074.34 567,-1084.34 574,-1084.34"/>
+</g>
+<!-- Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CT -->
+<g id="edge18" class="edge">
+<title>Task_12z63\nem_1CT_Tas\nk_17we306_\n1CT&#45;&gt;ExclusiveG\nateway_0ku\na0en_1CT</title>
+<path fill="none" stroke="black" d="M744.51,-918.65C700.78,-905.22 654.72,-891.07 620.98,-880.7"/>
+<polygon fill="black" stroke="black" points="621.95,-877.34 611.37,-877.75 619.9,-884.03 621.95,-877.34"/>
 </g>
 <!-- StartEvent\n_1_1CT -->
 <g id="node17" class="node">

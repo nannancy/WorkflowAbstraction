@@ -15,7 +15,7 @@ import interfaces.WorkflowInterface;
 
 public class LoopOperator extends Operator{
 
-	private HashSet<FragmentInterface> loops;
+	public HashSet<FragmentInterface> loops;
 
 	public LoopOperator(WorkflowInterface workflow) {
 		this.loops = new HashSet<FragmentInterface>();

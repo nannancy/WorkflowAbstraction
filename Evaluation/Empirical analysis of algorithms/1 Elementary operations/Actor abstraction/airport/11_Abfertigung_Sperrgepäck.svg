@@ -1,53 +1,52 @@
-<svg width="600px" height="678px"
- viewBox="0.00 0.00 470.00 530.79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 526.79)">
+<svg width="600px" height="659px"
+ viewBox="0.00 0.00 470.00 515.79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 511.79)">
 <title>11_Abfertigung_Sperrgepäck</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-526.79 466,-526.79 466,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-511.79 466,-511.79 466,4 -4,4"/>
 <!-- Task_0maf9\nlr_Task_0m\naf9lr -->
 <g id="node1" class="node">
 <title>Task_0maf9\nlr_Task_0m\naf9lr</title>
-<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="44,-378.69 44,-431.69 418,-431.69 418,-378.69 44,-378.69"/>
-<text text-anchor="middle" x="86.5" y="-416.49" font-family="Times,serif" font-size="14.00">Task_0maf9</text>
-<text text-anchor="middle" x="86.5" y="-401.49" font-family="Times,serif" font-size="14.00">lr_Task_0m</text>
-<text text-anchor="middle" x="86.5" y="-386.49" font-family="Times,serif" font-size="14.00">af9lr</text>
-<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="129,-378.69 129,-431.69 "/>
-<text text-anchor="middle" x="172.5" y="-416.49" font-family="Times,serif" font-size="14.00">Passagier:</text>
-<text text-anchor="middle" x="172.5" y="-401.49" font-family="Times,serif" font-size="14.00">Lane_0nwwt</text>
-<text text-anchor="middle" x="172.5" y="-386.49" font-family="Times,serif" font-size="14.00">sy</text>
-<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="216,-378.69 216,-431.69 "/>
-<text text-anchor="middle" x="317" y="-408.99" font-family="Times,serif" font-size="14.00">Passagier DO</text>
-<text text-anchor="middle" x="317" y="-393.99" font-family="Times,serif" font-size="14.00"> Zum_Sperrgepäckschalter_gehen</text>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="44,-363.69 44,-416.69 418,-416.69 418,-363.69 44,-363.69"/>
+<text text-anchor="middle" x="86.5" y="-401.49" font-family="Times,serif" font-size="14.00">Task_0maf9</text>
+<text text-anchor="middle" x="86.5" y="-386.49" font-family="Times,serif" font-size="14.00">lr_Task_0m</text>
+<text text-anchor="middle" x="86.5" y="-371.49" font-family="Times,serif" font-size="14.00">af9lr</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="129,-363.69 129,-416.69 "/>
+<text text-anchor="middle" x="172.5" y="-401.49" font-family="Times,serif" font-size="14.00">Passagier:</text>
+<text text-anchor="middle" x="172.5" y="-386.49" font-family="Times,serif" font-size="14.00">Lane_0nwwt</text>
+<text text-anchor="middle" x="172.5" y="-371.49" font-family="Times,serif" font-size="14.00">sy</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="216,-363.69 216,-416.69 "/>
+<text text-anchor="middle" x="317" y="-393.99" font-family="Times,serif" font-size="14.00">Passagier DO</text>
+<text text-anchor="middle" x="317" y="-378.99" font-family="Times,serif" font-size="14.00"> Zum_Sperrgepäckschalter_gehen</text>
 </g>
 <!-- ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh -->
 <g id="node5" class="node">
 <title>ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh</title>
-<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="0,-198.69 0,-341.69 462,-341.69 462,-198.69 0,-198.69"/>
-<text text-anchor="middle" x="41" y="-296.49" font-family="Times,serif" font-size="14.00">ExclusiveG</text>
-<text text-anchor="middle" x="41" y="-281.49" font-family="Times,serif" font-size="14.00">ateway_0kk</text>
-<text text-anchor="middle" x="41" y="-266.49" font-family="Times,serif" font-size="14.00">os1g_Exclu</text>
-<text text-anchor="middle" x="41" y="-251.49" font-family="Times,serif" font-size="14.00">siveGatewa</text>
-<text text-anchor="middle" x="41" y="-236.49" font-family="Times,serif" font-size="14.00">y_1br64kh</text>
-<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="82,-198.69 82,-341.69 "/>
-<text text-anchor="middle" x="122.5" y="-288.99" font-family="Times,serif" font-size="14.00">Check&#45;In_S</text>
-<text text-anchor="middle" x="122.5" y="-273.99" font-family="Times,serif" font-size="14.00">perrgepäck</text>
-<text text-anchor="middle" x="122.5" y="-258.99" font-family="Times,serif" font-size="14.00">:Lane_08ap</text>
-<text text-anchor="middle" x="122.5" y="-243.99" font-family="Times,serif" font-size="14.00">8ns</text>
-<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="163,-198.69 163,-341.69 "/>
-<text text-anchor="middle" x="312.5" y="-326.49" font-family="Times,serif" font-size="14.00">Check&#45;In_Sperrgepäck DO</text>
-<text text-anchor="middle" x="312.5" y="-311.49" font-family="Times,serif" font-size="14.00"> Gepäckanhänger_vorhanden?_/_SPLIT</text>
-<text text-anchor="middle" x="312.5" y="-296.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_drucken</text>
-<text text-anchor="middle" x="312.5" y="-281.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_befestigen</text>
-<text text-anchor="middle" x="312.5" y="-266.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_vorhanden?_/_JOIN</text>
-<text text-anchor="middle" x="312.5" y="-251.49" font-family="Times,serif" font-size="14.00">Förderband_für_Sperrgepäck_vorhanden?_/_SPLIT</text>
-<text text-anchor="middle" x="312.5" y="-236.49" font-family="Times,serif" font-size="14.00">Gepäck_auf_den_Wagen_legen</text>
-<text text-anchor="middle" x="312.5" y="-221.49" font-family="Times,serif" font-size="14.00">Gepäck_in_den_Gepäckkeller_transportieren</text>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="0,-198.69 0,-326.69 462,-326.69 462,-198.69 0,-198.69"/>
+<text text-anchor="middle" x="41" y="-288.99" font-family="Times,serif" font-size="14.00">ExclusiveG</text>
+<text text-anchor="middle" x="41" y="-273.99" font-family="Times,serif" font-size="14.00">ateway_0kk</text>
+<text text-anchor="middle" x="41" y="-258.99" font-family="Times,serif" font-size="14.00">os1g_Exclu</text>
+<text text-anchor="middle" x="41" y="-243.99" font-family="Times,serif" font-size="14.00">siveGatewa</text>
+<text text-anchor="middle" x="41" y="-228.99" font-family="Times,serif" font-size="14.00">y_1br64kh</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="82,-198.69 82,-326.69 "/>
+<text text-anchor="middle" x="122.5" y="-281.49" font-family="Times,serif" font-size="14.00">Check&#45;In_S</text>
+<text text-anchor="middle" x="122.5" y="-266.49" font-family="Times,serif" font-size="14.00">perrgepäck</text>
+<text text-anchor="middle" x="122.5" y="-251.49" font-family="Times,serif" font-size="14.00">:Lane_08ap</text>
+<text text-anchor="middle" x="122.5" y="-236.49" font-family="Times,serif" font-size="14.00">8ns</text>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="163,-198.69 163,-326.69 "/>
+<text text-anchor="middle" x="312.5" y="-311.49" font-family="Times,serif" font-size="14.00">Check&#45;In_Sperrgepäck DO</text>
+<text text-anchor="middle" x="312.5" y="-296.49" font-family="Times,serif" font-size="14.00"> Gepäckanhänger_vorhanden?_/_SPLIT</text>
+<text text-anchor="middle" x="312.5" y="-281.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_drucken</text>
+<text text-anchor="middle" x="312.5" y="-266.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_befestigen</text>
+<text text-anchor="middle" x="312.5" y="-251.49" font-family="Times,serif" font-size="14.00">Gepäckanhänger_vorhanden?_/_JOIN</text>
+<text text-anchor="middle" x="312.5" y="-236.49" font-family="Times,serif" font-size="14.00">Förderband_für_Sperrgepäck_vorhanden?_/_SPLIT</text>
+<text text-anchor="middle" x="312.5" y="-221.49" font-family="Times,serif" font-size="14.00">Gepäck_auf_Förderband_legen</text>
 <text text-anchor="middle" x="312.5" y="-206.49" font-family="Times,serif" font-size="14.00">Förderband_für_Sperrgepäck_vorhanden?_/_JOIN</text>
 </g>
 <!-- Task_0maf9\nlr_Task_0m\naf9lr&#45;&gt;ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh -->
 <g id="edge1" class="edge">
 <title>Task_0maf9\nlr_Task_0m\naf9lr&#45;&gt;ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh</title>
-<path fill="none" stroke="black" d="M231,-378.55C231,-370.65 231,-361.5 231,-351.93"/>
-<polygon fill="black" stroke="black" points="234.5,-351.84 231,-341.84 227.5,-351.84 234.5,-351.84"/>
+<path fill="none" stroke="black" d="M231,-363.5C231,-355.65 231,-346.6 231,-337.21"/>
+<polygon fill="black" stroke="black" points="234.5,-336.95 231,-326.95 227.5,-336.95 234.5,-336.95"/>
 </g>
 <!-- EndEvent_0\nhbd04d -->
 <g id="node2" class="node">
@@ -80,20 +79,20 @@
 <!-- StartEvent\n_111 -->
 <g id="node4" class="node">
 <title>StartEvent\n_111</title>
-<ellipse fill="lightgrey" stroke="black" cx="231" cy="-495.49" rx="27.1" ry="27.1"/>
-<text text-anchor="middle" x="231" y="-491.79" font-family="Times,serif" font-size="14.00">Start</text>
+<ellipse fill="lightgrey" stroke="black" cx="231" cy="-480.49" rx="27.1" ry="27.1"/>
+<text text-anchor="middle" x="231" y="-476.79" font-family="Times,serif" font-size="14.00">Start</text>
 </g>
 <!-- StartEvent\n_111&#45;&gt;Task_0maf9\nlr_Task_0m\naf9lr -->
 <g id="edge3" class="edge">
 <title>StartEvent\n_111&#45;&gt;Task_0maf9\nlr_Task_0m\naf9lr</title>
-<path fill="none" stroke="black" d="M231,-468C231,-459.84 231,-450.71 231,-442.03"/>
-<polygon fill="black" stroke="black" points="234.5,-441.76 231,-431.76 227.5,-441.76 234.5,-441.76"/>
+<path fill="none" stroke="black" d="M231,-453C231,-444.84 231,-435.71 231,-427.03"/>
+<polygon fill="black" stroke="black" points="234.5,-426.76 231,-416.76 227.5,-426.76 234.5,-426.76"/>
 </g>
 <!-- ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh&#45;&gt;Task_1ei7t\ni0_Task_1e\ni7ti0 -->
 <g id="edge4" class="edge">
 <title>ExclusiveG\nateway_0kk\nos1g_Exclu\nsiveGatewa\ny_1br64kh&#45;&gt;Task_1ei7t\ni0_Task_1e\ni7ti0</title>
-<path fill="none" stroke="black" d="M231,-198.53C231,-189.4 231,-180.28 231,-171.78"/>
-<polygon fill="black" stroke="black" points="234.5,-171.77 231,-161.77 227.5,-171.77 234.5,-171.77"/>
+<path fill="none" stroke="black" d="M231,-198.31C231,-189.47 231,-180.55 231,-172.19"/>
+<polygon fill="black" stroke="black" points="234.5,-171.93 231,-161.93 227.5,-171.93 234.5,-171.93"/>
 </g>
 </g>
 </svg>

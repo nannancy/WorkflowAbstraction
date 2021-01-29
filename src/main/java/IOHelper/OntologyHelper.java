@@ -86,6 +86,7 @@ public class OntologyHelper extends WorkflowImpl{
 	
 	public OntologyHelper(String OWLPath, TaxonomyHelper taxonomyHelper) {
 		// TODO Auto-generated constructor stub
+		this.OWLPath = OWLPath;
 		this.taxonomyHelper = taxonomyHelper;
 		initialization(OWLPath);
 	}
@@ -377,12 +378,13 @@ public class OntologyHelper extends WorkflowImpl{
 	    	o.add(df.getOWLObjectPropertyAssertionAxiom(hasEntry, abstractTask, entry));
 	    	o.add(df.getOWLObjectPropertyAssertionAxiom(belongTo, abstractTask, workflow));
 		}
-		
+		saveOntology(OWLPath.replaceFirst(".owl", "_after.owl"));
 	}
 	public void writeAllAbstractTasksIntoOWL() {
 		this.writeAbstractTasksIntoOWL(this.blockFragments,FragmentType.block);
 		this.writeAbstractTasksIntoOWL(this.deadendFragments, FragmentType.deadend);
 		this.writeAbstractTasksIntoOWL(this.participantFragments, FragmentType.participant);
+		this.writeAbstractTasksIntoOWL(this.sequentialFragments, FragmentType.sequential);
 	}
 	public void writeAbstractTaskIntoOWL(FragmentInterface f, String type)  {
 
@@ -408,7 +410,7 @@ public class OntologyHelper extends WorkflowImpl{
 		    	o.add(df.getOWLObjectPropertyAssertionAxiom(hasParticipant, abstractTask, participant));
 
 	    	}
-//		saveOntology(OWLPath.replaceFirst(".owl", "_after.owl"));
+		saveOntology(OWLPath.replaceFirst(".owl", "_after.owl"));
 	}
 	public void writeMappingIntoOWL(MappingInterface map, String type) {
 		this.writeAbstractTaskIntoOWL(map.getSourceFragment(), type);
@@ -436,6 +438,7 @@ public class OntologyHelper extends WorkflowImpl{
 		try {
 			manager.saveOntology(o, new FunctionalSyntaxDocumentFormat(),
 					new FileOutputStream(ﬁleout));
+			System.out.println(path);
 		} catch (OWLOntologyStorageException | FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

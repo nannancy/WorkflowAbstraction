@@ -26,11 +26,11 @@
 <text text-anchor="middle" x="319.5" y="-267.69" font-family="Times,serif" font-size="14.00">Admission_Committee DO</text>
 <text text-anchor="middle" x="319.5" y="-252.69" font-family="Times,serif" font-size="14.00"> task_Receive_application</text>
 <text text-anchor="middle" x="319.5" y="-237.69" font-family="Times,serif" font-size="14.00">parallelGateway</text>
-<text text-anchor="middle" x="319.5" y="-222.69" font-family="Times,serif" font-size="14.00">task_Rank_application_on_scale_from_1_to_10</text>
+<text text-anchor="middle" x="319.5" y="-222.69" font-family="Times,serif" font-size="14.00">task_Assessment_of_application</text>
 <text text-anchor="middle" x="319.5" y="-207.69" font-family="Times,serif" font-size="14.00">parallelGateway</text>
 <text text-anchor="middle" x="319.5" y="-192.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
-<text text-anchor="middle" x="319.5" y="-177.69" font-family="Times,serif" font-size="14.00">task_requirements_are_not_met_or_low_ranking</text>
-<text text-anchor="middle" x="319.5" y="-162.69" font-family="Times,serif" font-size="14.00">task_proposed_as_rejected</text>
+<text text-anchor="middle" x="319.5" y="-177.69" font-family="Times,serif" font-size="14.00">task_proof_of_uni_degree_provided</text>
+<text text-anchor="middle" x="319.5" y="-162.69" font-family="Times,serif" font-size="14.00">task_proposed_as_reserved</text>
 <text text-anchor="middle" x="319.5" y="-147.69" font-family="Times,serif" font-size="14.00">exclusiveGateway</text>
 <text text-anchor="middle" x="319.5" y="-132.69" font-family="Times,serif" font-size="14.00">task_Final_confirmation_by_head_of_the_university</text>
 </g>

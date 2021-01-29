@@ -16,6 +16,8 @@ public class SequenceOperator extends Operator {
 	
 	TaxonomyHelper taxonomyHelper = TaxonomyHelper.sourceTaxonomy;
 	WorkflowInterface workflow;
+	public Set<FragmentInterface> sequences;
+
 	public SequenceOperator(WorkflowInterface workflow) {
 		// TODO Auto-generated constructor stub
 		this.type="sequence";
@@ -62,5 +64,4 @@ public class SequenceOperator extends Operator {
 		f.setPostanchor(postanchor);
 		return f;
 	}
-	Set<FragmentInterface> sequences;
 }

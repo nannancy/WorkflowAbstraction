@@ -52,7 +52,7 @@
 <polyline fill="none" stroke="black" stroke-dasharray="5,2" points="247,-213.69 247,-296.69 "/>
 <text text-anchor="middle" x="370" y="-281.49" font-family="Times,serif" font-size="14.00">SAP_SCM_EWM DO</text>
 <text text-anchor="middle" x="370" y="-266.49" font-family="Times,serif" font-size="14.00"> Komplexes_Gateway_/_SPLIT</text>
-<text text-anchor="middle" x="370" y="-251.49" font-family="Times,serif" font-size="14.00">Automatisch_wiederauffüllen</text>
+<text text-anchor="middle" x="370" y="-251.49" font-family="Times,serif" font-size="14.00">Wiederauffüllung_durchführen</text>
 <text text-anchor="middle" x="370" y="-236.49" font-family="Times,serif" font-size="14.00">Komplexes_Gateway_/_JOIN</text>
 <text text-anchor="middle" x="370" y="-221.49" font-family="Times,serif" font-size="14.00">Lageraufgabe_Wiederauffüllung_erstellen</text>
 </g>
