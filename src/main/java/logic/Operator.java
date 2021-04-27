@@ -118,6 +118,26 @@ abstract class Operator {
 				}
 		}
 	}
+	
+	public void onOntology(String SVGPath,List<WorkflowImpl> workflows ) {
+		
+		assert this.fragments!=null:"wrong";
+		assert !this.type.contentEquals(""):"wrong";
+		if(this.fragments!=null&&!this.type.contentEquals("")) {
+			OntologyHelper srcOntology = OntologyHelper.sourceOntologyHelper;
+
+				for(FragmentInterface f:this.fragments) {
+
+					f.setAbstractTask(srcOntology.getAbstractTaskOf(f, this.type));
+				}
+				/***/
+				
+				for(WorkflowImpl w:workflows) {
+					WorkflowImpl w2 = onWorkflow(w); 
+					OntologyHelper.exportTo(SVGPath,w2.semanticDescription,w2,w2.edges);
+				}
+		}
+	}
 	private WorkflowImpl onWorkflow(WorkflowImpl w) {
 		
 		  ArrayList<FragmentInterface> tmp = new ArrayList<FragmentInterface>(), 
