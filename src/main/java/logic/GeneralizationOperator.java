@@ -18,7 +18,7 @@ import interfaces.NodeInterface;
 
 public class GeneralizationOperator {
 	
-	public static List<WorkflowImpl> workflows = new ArrayList<WorkflowImpl>();
+	public List<WorkflowImpl> workflows = new ArrayList<WorkflowImpl>();
 
 	public GeneralizationOperator(OntologyHelper srcOntology) {
 		// TODO Auto-generated constructor stub
