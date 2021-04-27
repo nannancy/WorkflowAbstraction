@@ -15,7 +15,7 @@ public class Transfer_costs {
 
 	}
 	public static void main(String args[]) throws IOException {
-		 OntologyHelper.sourceOntologyHelper = new OntologyHelper("./Evaluation/data sets/EVER 2"
+			 OntologyHelper.sourceOntologyHelper = new OntologyHelper("./Evaluation/data sets/EVER 2"
 			 		+ "/airport handling of lugguage/Ontologie_Flughafen_all_ID.owl",
 			 		TaxonomyHelper.sourceTaxonomy);
 		 OntologyHelper.targetOntologyHelper = new OntologyHelper("./Evaluation/data sets/EVER 2/SAP warehouse management/Ontologie_SAP_all_ID.owl",TaxonomyHelper.targetTaxonomy);
@@ -24,7 +24,23 @@ public class Transfer_costs {
 		
 		SequenceOperator sequenceOperator = new SequenceOperator(OntologyHelper.sourceOntologyHelper);
 		
-		sequenceOperator.onOntology("./test/", genOperator.workflows);
+		sequenceOperator.onOntology("./test/sequence/", genOperator.workflows);
+		
+		 OntologyHelper.sourceOntologyHelper = new OntologyHelper("./Evaluation/data sets/EVER 2"
+			 		+ "/airport handling of lugguage/Ontologie_Flughafen_all_ID.owl",
+			 		TaxonomyHelper.sourceTaxonomy);
+		 
+		genOperator = new GeneralizationOperator(OntologyHelper.sourceOntologyHelper);
+
+		BlockOperator blockOperator = new BlockOperator(OntologyHelper.sourceOntologyHelper);
+		blockOperator.onOntology("./test/block/", genOperator.workflows);
+
+		 OntologyHelper.sourceOntologyHelper = new OntologyHelper("./Evaluation/data sets/EVER 2"
+			 		+ "/airport handling of lugguage/Ontologie_Flughafen_all_ID.owl",
+			 		TaxonomyHelper.sourceTaxonomy);
+			genOperator = new GeneralizationOperator(OntologyHelper.sourceOntologyHelper);
+		PartiDepOperator partiDepOperator = new PartiDepOperator(OntologyHelper.sourceOntologyHelper);
+		partiDepOperator.onOntology("./test/partiDepOperator/", genOperator.workflows);
 	}
 
 }
