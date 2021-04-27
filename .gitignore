@@ -1,0 +1,8 @@
+test/
+generalization/
+Evaluation/
+.metadata/
+.settings/
+target/
+.classpath
+model_w2v.bin
